@@ -1,0 +1,16 @@
+{
+  "name": "haworthia-academiy-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/index.html",
+  "scripts": {
+    "build": "parcel build index.html --no-source-maps",
+    "start": "parcel serve index.html",
+    "watch": "parcel watch src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-alpha.3.2"
+  }
+}
