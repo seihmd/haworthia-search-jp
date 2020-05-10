@@ -1,0 +1,6938 @@
+{
+    "2233": {
+        "name": "アグニス",
+        "name_en": "H. agnis",
+        "volume": 3,
+        "page": 1
+    },
+    "2234": {
+        "name": "アグニス",
+        "name_en": "H. agnis",
+        "volume": 3,
+        "page": 1
+    },
+    "2235": {
+        "name": "アルテシマ",
+        "name_en": "H. altissima",
+        "volume": 3,
+        "page": 1
+    },
+    "2236": {
+        "name": "アングステフォリア",
+        "name_en": "H. angustifolia",
+        "volume": 3,
+        "page": 1
+    },
+    "2237": {
+        "name": "桜心",
+        "name_en": "H. archeri'Sakuragokoro'",
+        "volume": 3,
+        "page": 1
+    },
+    "2238": {
+        "name": "アプタ",
+        "name_en": "H. apta (abstanderi)",
+        "volume": 3,
+        "page": 1
+    },
+    "2239": {
+        "name": "アスペラタ",
+        "name_en": "H. asperata",
+        "volume": 3,
+        "page": 1
+    },
+    "2240": {
+        "name": "エニグマ",
+        "name_en": "H. (atrofusca/enigma) enigma",
+        "volume": 3,
+        "page": 1
+    },
+    "2241": {
+        "name": "アトロフスカミュータント",
+        "name_en": "H. atrofsca'Mutant'",
+        "volume": 3,
+        "page": 1
+    },
+    "2242": {
+        "name": "タテ線アトロフスカ",
+        "name_en": "H. atrofsca'Tatesen'",
+        "volume": 3,
+        "page": 2
+    },
+    "2243": {
+        "name": "アズレア",
+        "name_en": "H. 'Azurea'",
+        "volume": 3,
+        "page": 2
+    },
+    "2244": {
+        "name": "ビッグローズ",
+        "name_en": "H. badia 'Big Rose'",
+        "volume": 3,
+        "page": 2
+    },
+    "2245": {
+        "name": "紅ヒトデ",
+        "name_en": "H. badia 'Beni-hitode'",
+        "volume": 3,
+        "page": 2
+    },
+    "2246": {
+        "name": "紅獅子",
+        "name_en": "H. badia 'Benijishi'",
+        "volume": 3,
+        "page": 2
+    },
+    "2247": {
+        "name": "毘沙門天",
+        "name_en": "H. badio 'Bisyamonten'",
+        "volume": 3,
+        "page": 2
+    },
+    "2248": {
+        "name": "超大型バディア",
+        "name_en": "H. badia 'Cho Oogata'",
+        "volume": 3,
+        "page": 2
+    },
+    "2249": {
+        "name": "飛龍",
+        "name_en": "H. badia 'Hiryu'",
+        "volume": 3,
+        "page": 2
+    },
+    "2250": {
+        "name": "京鳳",
+        "name_en": "H. badia 'Kyouho'",
+        "volume": 3,
+        "page": 2
+    },
+    "2251": {
+        "name": "摩天楼",
+        "name_en": "H. badia 'Matenrou'",
+        "volume": 3,
+        "page": 3
+    },
+    "2252": {
+        "name": "パープルシャドウ",
+        "name_en": "H. badia 'Purple Shadow'",
+        "volume": 3,
+        "page": 3
+    },
+    "2253": {
+        "name": "竜珠",
+        "name_en": "H. badia 'Ryuju'",
+        "volume": 3,
+        "page": 3
+    },
+    "2254": {
+        "name": "徳田クリスタル",
+        "name_en": "H. badia 'Tokuda Crystal'",
+        "volume": 3,
+        "page": 3
+    },
+    "2255": {
+        "name": "大和",
+        "name_en": "H. badia 'Yamato'",
+        "volume": 3,
+        "page": 3
+    },
+    "2256": {
+        "name": "ジョレネアエ",
+        "name_en": "H. badia v. joleneae",
+        "volume": 3,
+        "page": 3
+    },
+    "2257": {
+        "name": "アルカディア",
+        "name_en": "H. bayeri 'Arcadia'",
+        "volume": 3,
+        "page": 3
+    },
+    "2258": {
+        "name": "江隈ユニオン",
+        "name_en": "H. bayeri 'Ekuma Union'",
+        "volume": 3,
+        "page": 3
+    },
+    "2259": {
+        "name": "醍醐",
+        "name_en": "H. bayeri 'Oaigo'",
+        "volume": 3,
+        "page": 3
+    },
+    "2260": {
+        "name": "銀牡丹",
+        "name_en": "H. bayeri 'Ginbotan'",
+        "volume": 3,
+        "page": 4
+    },
+    "2261": {
+        "name": "グリーンスコット",
+        "name_en": "H. bayeri 'Green Scott'",
+        "volume": 3,
+        "page": 4
+    },
+    "2262": {
+        "name": "ハート",
+        "name_en": "H. bayeri 'Heart'",
+        "volume": 3,
+        "page": 4
+    },
+    "2263": {
+        "name": "稲光",
+        "name_en": "H. bayeri 'Inabikari'",
+        "volume": 3,
+        "page": 4
+    },
+    "2264": {
+        "name": "稲妻",
+        "name_en": "H. bayeri 'Inazuma'",
+        "volume": 3,
+        "page": 4
+    },
+    "2265": {
+        "name": "ジュピター",
+        "name_en": "H. bayeri 'Jupitar'",
+        "volume": 3,
+        "page": 4
+    },
+    "2266": {
+        "name": "なまず",
+        "name_en": "H. bayeri 'Namazu'",
+        "volume": 3,
+        "page": 4
+    },
+    "2267": {
+        "name": "ピラルク",
+        "name_en": "H. bayeri 'Pirarucu'",
+        "volume": 3,
+        "page": 4
+    },
+    "2268": {
+        "name": "雷光",
+        "name_en": "H. bayeri 'Raiko'",
+        "volume": 3,
+        "page": 4
+    },
+    "2269": {
+        "name": "シーエメラルド",
+        "name_en": "H. bayeri 'Sea Emerald'",
+        "volume": 3,
+        "page": 5
+    },
+    "2270": {
+        "name": "白玉風船",
+        "name_en": "H. bayeri 'Shiratama-Fusen'",
+        "volume": 3,
+        "page": 5
+    },
+    "2271": {
+        "name": "UFO",
+        "name_en": "H. bayeri 'UFO'",
+        "volume": 3,
+        "page": 5
+    },
+    "2272": {
+        "name": "バビエンス",
+        "name_en": "H. baviens",
+        "volume": 3,
+        "page": 5
+    },
+    "2273": {
+        "name": "ベラ",
+        "name_en": "H. bella",
+        "volume": 3,
+        "page": 5
+    },
+    "2274": {
+        "name": "ボビー",
+        "name_en": "H. bobii",
+        "volume": 3,
+        "page": 5
+    },
+    "2275": {
+        "name": "ブレウエリ",
+        "name_en": "H. breueri",
+        "volume": 3,
+        "page": 5
+    },
+    "2276": {
+        "name": "カナ",
+        "name_en": "H. cana",
+        "volume": 3,
+        "page": 5
+    },
+    "2277": {
+        "name": "カンゴエンシス",
+        "name_en": "H. cangoensis",
+        "volume": 3,
+        "page": 5
+    },
+    "2278": {
+        "name": "クロラカンサ",
+        "name_en": "H. chloracantha",
+        "volume": 3,
+        "page": 6
+    },
+    "2279": {
+        "name": "シリアタ",
+        "name_en": "H. ciliata",
+        "volume": 3,
+        "page": 6
+    },
+    "2280": {
+        "name": "コンプトニアナ",
+        "name_en": "H. comptoniana",
+        "volume": 3,
+        "page": 6
+    },
+    "2281": {
+        "name": "コンプトニアナ",
+        "name_en": "H. comptoniana",
+        "volume": 3,
+        "page": 6
+    },
+    "2282": {
+        "name": "コンプトニアナ",
+        "name_en": "H. comptoniana",
+        "volume": 3,
+        "page": 6
+    },
+    "2283": {
+        "name": "コンプトニアナ",
+        "name_en": "H. comptoniana",
+        "volume": 3,
+        "page": 6
+    },
+    "2284": {
+        "name": "ブレビフォリア",
+        "name_en": "H. comptoniana 'Brevifolia'",
+        "volume": 3,
+        "page": 6
+    },
+    "2285": {
+        "name": "ドドソンコンプトニアナ",
+        "name_en": "H. comptoniana 'Dodson'",
+        "volume": 3,
+        "page": 6
+    },
+    "2286": {
+        "name": "花蔵",
+        "name_en": "H. comptoniana 'Hanakura'",
+        "volume": 3,
+        "page": 6
+    },
+    "2287": {
+        "name": "グリーングラス",
+        "name_en": "H. comptoniana 'Green Glass'?",
+        "volume": 3,
+        "page": 7
+    },
+    "2288": {
+        "name": "金春",
+        "name_en": "H. comptoniana 'Kinshun'",
+        "volume": 3,
+        "page": 7
+    },
+    "2289": {
+        "name": "レンズコンプト",
+        "name_en": "H. comptoniana 'Lens '",
+        "volume": 3,
+        "page": 7
+    },
+    "2290": {
+        "name": "桃太郎",
+        "name_en": "H. comptoniana 'Momo-taro'",
+        "volume": 3,
+        "page": 7
+    },
+    "2291": {
+        "name": "大久保",
+        "name_en": "H. comptoniana 'Ohkubo'",
+        "volume": 3,
+        "page": 7
+    },
+    "2292": {
+        "name": "老川黒",
+        "name_en": "H. comptoniana 'Oikawa-kuro'",
+        "volume": 3,
+        "page": 7
+    },
+    "2293": {
+        "name": "不知火",
+        "name_en": "H. comptoniana 'Shiranui'",
+        "volume": 3,
+        "page": 7
+    },
+    "2294": {
+        "name": "水晶",
+        "name_en": "H. comptoniana 'Suisho'",
+        "volume": 3,
+        "page": 7
+    },
+    "2295": {
+        "name": "ツルピカコンプト",
+        "name_en": "H. comptoniana 'Tsurupika'",
+        "volume": 3,
+        "page": 7
+    },
+    "2296": {
+        "name": "裏窓コンプト",
+        "name_en": "H. comptoniana 'Uramado'",
+        "volume": 3,
+        "page": 8
+    },
+    "2297": {
+        "name": "コンサイグイネア",
+        "name_en": "H. consanguinea",
+        "volume": 3,
+        "page": 8
+    },
+    "2298": {
+        "name": "クーペリーエースA",
+        "name_en": "H. cooperi 'Ace-A'",
+        "volume": 3,
+        "page": 8
+    },
+    "2299": {
+        "name": "クーペリーエースB",
+        "name_en": "H. cooperi 'Ace-8'",
+        "volume": 3,
+        "page": 8
+    },
+    "2300": {
+        "name": "クーペリー",
+        "name_en": "H. cooperi",
+        "volume": 3,
+        "page": 8
+    },
+    "2301": {
+        "name": "桃里",
+        "name_en": "H. cooperi 'Momosato'",
+        "volume": 3,
+        "page": 8
+    },
+    "2302": {
+        "name": "クロムチカ",
+        "name_en": "H. cromutica",
+        "volume": 3,
+        "page": 8
+    },
+    "2303": {
+        "name": "シアネア",
+        "name_en": "H. cyanea",
+        "volume": 3,
+        "page": 8
+    },
+    "2304": {
+        "name": "シアネア",
+        "name_en": "H. cyanea",
+        "volume": 3,
+        "page": 8
+    },
+    "2305": {
+        "name": "ダシリス",
+        "name_en": "H. dacylis",
+        "volume": 3,
+        "page": 9
+    },
+    "2306": {
+        "name": "デンタタ",
+        "name_en": "H. dentata",
+        "volume": 3,
+        "page": 9
+    },
+    "2307": {
+        "name": "デンテクラタ",
+        "name_en": "H. denticulata",
+        "volume": 3,
+        "page": 9
+    },
+    "2308": {
+        "name": "デパペラタ",
+        "name_en": "H. depaperata",
+        "volume": 3,
+        "page": 9
+    },
+    "2309": {
+        "name": "ディレクタ",
+        "name_en": "H. directa",
+        "volume": 3,
+        "page": 9
+    },
+    "2310": {
+        "name": "デルシアナ",
+        "name_en": "H. (cooperi) dielsiana",
+        "volume": 3,
+        "page": 9
+    },
+    "2311": {
+        "name": "ドラ",
+        "name_en": "H. dura",
+        "volume": 3,
+        "page": 9
+    },
+    "2312": {
+        "name": "エイランデア",
+        "name_en": "H. eilandia",
+        "volume": 3,
+        "page": 9
+    },
+    "2313": {
+        "name": "エレガンス",
+        "name_en": "H. elegans",
+        "volume": 3,
+        "page": 9
+    },
+    "2314": {
+        "name": "エリゼアエ",
+        "name_en": "H. elizeae",
+        "volume": 3,
+        "page": 10
+    },
+    "2315": {
+        "name": "エメラルダ",
+        "name_en": "H. emeralda",
+        "volume": 3,
+        "page": 10
+    },
+    "2316": {
+        "name": "エキリス",
+        "name_en": "H. exilis",
+        "volume": 3,
+        "page": 10
+    },
+    "2317": {
+        "name": "フラビダ",
+        "name_en": "H. flavida",
+        "volume": 3,
+        "page": 10
+    },
+    "2318": {
+        "name": "フロリダ",
+        "name_en": "H. florida",
+        "volume": 3,
+        "page": 10
+    },
+    "2319": {
+        "name": "フラセリー",
+        "name_en": "H. fraserii",
+        "volume": 3,
+        "page": 10
+    },
+    "2320": {
+        "name": "グローラ",
+        "name_en": "H. groenewaldii 'Gloria'",
+        "volume": 3,
+        "page": 10
+    },
+    "2321": {
+        "name": "ハーメリー",
+        "name_en": "H. hammeri",
+        "volume": 3,
+        "page": 10
+    },
+    "2322": {
+        "name": "ヘミクリプタ",
+        "name_en": "H. hemicrypta",
+        "volume": 3,
+        "page": 10
+    },
+    "2323": {
+        "name": "ヘルバセア",
+        "name_en": "H. herbacea",
+        "volume": 3,
+        "page": 11
+    },
+    "2324": {
+        "name": "ヘロルデア",
+        "name_en": "H. heroldia",
+        "volume": 3,
+        "page": 11
+    },
+    "2325": {
+        "name": "ヒスイ",
+        "name_en": "H. hisui",
+        "volume": 3,
+        "page": 11
+    },
+    "2326": {
+        "name": "フルリンギー",
+        "name_en": "H. hurlingii",
+        "volume": 3,
+        "page": 11
+    },
+    "2327": {
+        "name": "インスピダ",
+        "name_en": "H. inspida",
+        "volume": 3,
+        "page": 11
+    },
+    "2328": {
+        "name": "インターメディア",
+        "name_en": "H. intermedia",
+        "volume": 3,
+        "page": 11
+    },
+    "2329": {
+        "name": "ジャクビー",
+        "name_en": "H. jakubii",
+        "volume": 3,
+        "page": 11
+    },
+    "2330": {
+        "name": "ジョーベルティ",
+        "name_en": "H. joubertii",
+        "volume": 3,
+        "page": 11
+    },
+    "2331": {
+        "name": "キワネア",
+        "name_en": "H. kiwanea",
+        "volume": 3,
+        "page": 11
+    },
+    "2332": {
+        "name": "クリペンシス",
+        "name_en": "H. klipensis",
+        "volume": 3,
+        "page": 12
+    },
+    "2333": {
+        "name": "クロミア",
+        "name_en": "H. kromia",
+        "volume": 3,
+        "page": 12
+    },
+    "2334": {
+        "name": "クブシェ",
+        "name_en": "H. kubusie",
+        "volume": 3,
+        "page": 12
+    },
+    "2335": {
+        "name": "ラクノサ",
+        "name_en": "H. lachnosa",
+        "volume": 3,
+        "page": 12
+    },
+    "2336": {
+        "name": "ラズリス",
+        "name_en": "H. lazulis",
+        "volume": 3,
+        "page": 12
+    },
+    "2337": {
+        "name": "リグラタ",
+        "name_en": "H. ligulata",
+        "volume": 3,
+        "page": 12
+    },
+    "2338": {
+        "name": "ルミニス",
+        "name_en": "H. luminis",
+        "volume": 3,
+        "page": 12
+    },
+    "2339": {
+        "name": "オブセラータ",
+        "name_en": "H. mognitica v'obserata'",
+        "volume": 3,
+        "page": 12
+    },
+    "2340": {
+        "name": "マライシー",
+        "name_en": "H. maraisii",
+        "volume": 3,
+        "page": 12
+    },
+    "2341": {
+        "name": "マライシー",
+        "name_en": "H. maraisii",
+        "volume": 3,
+        "page": 13
+    },
+    "2342": {
+        "name": "マライシー",
+        "name_en": "H. maraisii",
+        "volume": 3,
+        "page": 13
+    },
+    "2343": {
+        "name": "マジョール",
+        "name_en": "H. magnifica v. major",
+        "volume": 3,
+        "page": 13
+    },
+    "2344": {
+        "name": "マミラリス",
+        "name_en": "H. mammillaris",
+        "volume": 3,
+        "page": 13
+    },
+    "2345": {
+        "name": "マルモラタ",
+        "name_en": "H. marmorata",
+        "volume": 3,
+        "page": 13
+    },
+    "2346": {
+        "name": "メアリ",
+        "name_en": "H. meari",
+        "volume": 3,
+        "page": 13
+    },
+    "2347": {
+        "name": "ミラビリス",
+        "name_en": "H. mirabilis",
+        "volume": 3,
+        "page": 13
+    },
+    "2348": {
+        "name": "ミラビリス",
+        "name_en": "H. mirabilis",
+        "volume": 3,
+        "page": 13
+    },
+    "2349": {
+        "name": "ミラビリス",
+        "name_en": "H. mirabilis",
+        "volume": 3,
+        "page": 13
+    },
+    "2350": {
+        "name": "モリス",
+        "name_en": "H. mollis",
+        "volume": 3,
+        "page": 14
+    },
+    "2351": {
+        "name": "モンタナ",
+        "name_en": "H. montana",
+        "volume": 3,
+        "page": 14
+    },
+    "2352": {
+        "name": "ムルチフォリア",
+        "name_en": "H. multifolia",
+        "volume": 3,
+        "page": 14
+    },
+    "2353": {
+        "name": "王寿",
+        "name_en": "H. retusa v. multiflineata",
+        "volume": 3,
+        "page": 14
+    },
+    "2354": {
+        "name": "ムリアナ",
+        "name_en": "H. muriana",
+        "volume": 3,
+        "page": 14
+    },
+    "2355": {
+        "name": "ムチカ",
+        "name_en": "H. mutica",
+        "volume": 3,
+        "page": 14
+    },
+    "2356": {
+        "name": "ムチカ",
+        "name_en": "H. mutica",
+        "volume": 3,
+        "page": 14
+    },
+    "2357": {
+        "name": "ムチカ",
+        "name_en": "H. mutica",
+        "volume": 3,
+        "page": 14
+    },
+    "2358": {
+        "name": "青線ムチカ",
+        "name_en": "H. mutica 'Aosen＇",
+        "volume": 3,
+        "page": 14
+    },
+    "2359": {
+        "name": "ドリューホワイト",
+        "name_en": "H. mutica 'Drew White'",
+        "volume": 3,
+        "page": 15
+    },
+    "2360": {
+        "name": "白幻夢",
+        "name_en": "H. mutica 'Hakugenmu'",
+        "volume": 3,
+        "page": 15
+    },
+    "2361": {
+        "name": "ニグラタ",
+        "name_en": "H. nigrata",
+        "volume": 3,
+        "page": 15
+    },
+    "2362": {
+        "name": "綾笹/水藻の花",
+        "name_en": "H. nortieri",
+        "volume": 3,
+        "page": 15
+    },
+    "2363": {
+        "name": "ノオタタ",
+        "name_en": "H. notata",
+        "volume": 3,
+        "page": 15
+    },
+    "2364": {
+        "name": "ヌーダタ",
+        "name_en": "H. nudata",
+        "volume": 3,
+        "page": 15
+    },
+    "2365": {
+        "name": "牡丹雪",
+        "name_en": "H. picta 'Botanyuki'",
+        "volume": 3,
+        "page": 15
+    },
+    "2366": {
+        "name": "カメレオン",
+        "name_en": "H. 'Cameleon'",
+        "volume": 3,
+        "page": 15
+    },
+    "2367": {
+        "name": "ショコラムーン",
+        "name_en": "H. 'Chocorat Moon'",
+        "volume": 3,
+        "page": 15
+    },
+    "2368": {
+        "name": "千波",
+        "name_en": "H. 'Chinami'",
+        "volume": 3,
+        "page": 16
+    },
+    "2369": {
+        "name": "大白蓮",
+        "name_en": "H. picta 'Daibyakuren'",
+        "volume": 3,
+        "page": 16
+    },
+    "2370": {
+        "name": "エレファント",
+        "name_en": "H. picta 'Elephant'",
+        "volume": 3,
+        "page": 16
+    },
+    "2371": {
+        "name": "円空",
+        "name_en": "H. picta 'Enku'",
+        "volume": 3,
+        "page": 16
+    },
+    "2372": {
+        "name": "フローラ",
+        "name_en": "H. picta 'Flora'",
+        "volume": 3,
+        "page": 16
+    },
+    "2373": {
+        "name": "富士",
+        "name_en": "H. picta 'Fuji'",
+        "volume": 3,
+        "page": 16
+    },
+    "2374": {
+        "name": "臥竜",
+        "name_en": "H. picta 'Garyu'",
+        "volume": 3,
+        "page": 16
+    },
+    "2375": {
+        "name": "銀世界",
+        "name_en": "H. picta 'Ginseka'",
+        "volume": 3,
+        "page": 16
+    },
+    "2376": {
+        "name": "白雅竜",
+        "name_en": "H. picta 'Hakugaryu'",
+        "volume": 3,
+        "page": 16
+    },
+    "2377": {
+        "name": "白楽点",
+        "name_en": "H. picta 'Hakurakuten'",
+        "volume": 3,
+        "page": 17
+    },
+    "2378": {
+        "name": "白緑麗",
+        "name_en": "H. picta 'Hakuryokurei'",
+        "volume": 3,
+        "page": 17
+    },
+    "2379": {
+        "name": "白閃",
+        "name_en": "H. picta 'Hakusen'",
+        "volume": 3,
+        "page": 17
+    },
+    "2380": {
+        "name": "白泉殿",
+        "name_en": "H. picta 'Hakusenden'",
+        "volume": 3,
+        "page": 17
+    },
+    "2381": {
+        "name": "白秀殿",
+        "name_en": "H. picta 'Hakusyuuden'",
+        "volume": 3,
+        "page": 17
+    },
+    "2382": {
+        "name": "伯爵夫人",
+        "name_en": "H. picta 'Hakushakufujin'",
+        "volume": 3,
+        "page": 17
+    },
+    "2383": {
+        "name": "白点竜",
+        "name_en": "H. picta 'Hakutenryu'",
+        "volume": 3,
+        "page": 17
+    },
+    "2384": {
+        "name": "ひとめぼれ",
+        "name_en": "H. picta 'Hitomebore'",
+        "volume": 3,
+        "page": 17
+    },
+    "2385": {
+        "name": "星のフラメンコ",
+        "name_en": "H. picta 'Hoshinofuramenko'",
+        "volume": 3,
+        "page": 17
+    },
+    "2386": {
+        "name": "いろは",
+        "name_en": "H. picta 'Jroha'",
+        "volume": 3,
+        "page": 18
+    },
+    "2387": {
+        "name": "如水",
+        "name_en": "H. picta 'Jyosui'",
+        "volume": 3,
+        "page": 18
+    },
+    "2388": {
+        "name": "火星",
+        "name_en": "H. picta 'Kasei'",
+        "volume": 3,
+        "page": 18
+    },
+    "2389": {
+        "name": "小星",
+        "name_en": "H. picta 'Koboshi'",
+        "volume": 3,
+        "page": 18
+    },
+    "2390": {
+        "name": "子玉竜",
+        "name_en": "H. picta 'Kodamaryu'",
+        "volume": 3,
+        "page": 18
+    },
+    "2391": {
+        "name": "光霧",
+        "name_en": "H. picta 'Koumu'",
+        "volume": 3,
+        "page": 18
+    },
+    "2392": {
+        "name": "黒白",
+        "name_en": "H. picta 'Kuroshiro'",
+        "volume": 3,
+        "page": 18
+    },
+    "2393": {
+        "name": "舞子",
+        "name_en": "H. picta 'Maiko'",
+        "volume": 3,
+        "page": 18
+    },
+    "2394": {
+        "name": "メロン",
+        "name_en": "H. picta 'Meron'",
+        "volume": 3,
+        "page": 18
+    },
+    "2395": {
+        "name": "源",
+        "name_en": "H. picta 'Minamoto'",
+        "volume": 3,
+        "page": 19
+    },
+    "2396": {
+        "name": "モーダルムード",
+        "name_en": "H. picta 'Modal Mood'",
+        "volume": 3,
+        "page": 19
+    },
+    "2397": {
+        "name": "仁王",
+        "name_en": "H. picta 'Niou'",
+        "volume": 3,
+        "page": 19
+    },
+    "2398": {
+        "name": "おかめ",
+        "name_en": "H. picta 'Okame'",
+        "volume": 3,
+        "page": 19
+    },
+    "2399": {
+        "name": "大ガエル",
+        "name_en": "H. picta 'Oogaeru'",
+        "volume": 3,
+        "page": 19
+    },
+    "2400": {
+        "name": "オルフェ",
+        "name_en": "H. picta 'Orfeu'",
+        "volume": 3,
+        "page": 19
+    },
+    "2401": {
+        "name": "黄乳",
+        "name_en": "H. picta 'Ounyuu'",
+        "volume": 3,
+        "page": 19
+    },
+    "2402": {
+        "name": "プリン",
+        "name_en": "H. picta 'Purin'",
+        "volume": 3,
+        "page": 19
+    },
+    "2403": {
+        "name": "プリマベール",
+        "name_en": "H. picta 'Prima Belle'",
+        "volume": 3,
+        "page": 19
+    },
+    "2404": {
+        "name": "プリマドール",
+        "name_en": "H. picta 'Prima Doll'",
+        "volume": 3,
+        "page": 20
+    },
+    "2405": {
+        "name": "パールハッパ",
+        "name_en": "H. picta 'Pearlhappa'",
+        "volume": 3,
+        "page": 20
+    },
+    "2406": {
+        "name": "ピンクパール",
+        "name_en": "H. picta 'Pinkpearl'",
+        "volume": 3,
+        "page": 20
+    },
+    "2407": {
+        "name": "レッドクリフ",
+        "name_en": "H. picta 'Red Cliff'",
+        "volume": 3,
+        "page": 20
+    },
+    "2408": {
+        "name": "桜吹雪",
+        "name_en": "H. picta 'Sakurafubuki'",
+        "volume": 3,
+        "page": 20
+    },
+    "2409": {
+        "name": "清流殿",
+        "name_en": "H. picta 'Seiryuden'",
+        "volume": 3,
+        "page": 20
+    },
+    "2410": {
+        "name": "青天の陽",
+        "name_en": "H. picta 'Seitennohi'",
+        "volume": 3,
+        "page": 20
+    },
+    "2411": {
+        "name": "青天の光",
+        "name_en": "H. picta 'Seitennohikan",
+        "volume": 3,
+        "page": 20
+    },
+    "2412": {
+        "name": "シャングリラ",
+        "name_en": "H. picta 'Shangri-La'",
+        "volume": 3,
+        "page": 20
+    },
+    "2413": {
+        "name": "渋谷",
+        "name_en": "H. picta 'Shibuya'",
+        "volume": 3,
+        "page": 21
+    },
+    "2414": {
+        "name": "深海もどき",
+        "name_en": "H. picta 'Shinkaimodoki'",
+        "volume": 3,
+        "page": 21
+    },
+    "2415": {
+        "name": "早春賦",
+        "name_en": "H. picta 'Soushunfu'",
+        "volume": 3,
+        "page": 21
+    },
+    "2416": {
+        "name": "スワン",
+        "name_en": "H. picta 'Swan'",
+        "volume": 3,
+        "page": 21
+    },
+    "2417": {
+        "name": "珠玉殿",
+        "name_en": "H. picta 'Syugyokuden'",
+        "volume": 3,
+        "page": 21
+    },
+    "2418": {
+        "name": "春雪",
+        "name_en": "H. picta 'Syunsetsu'",
+        "volume": 3,
+        "page": 21
+    },
+    "2419": {
+        "name": "玉竜",
+        "name_en": "H. picta 'Tamaryu'",
+        "volume": 3,
+        "page": 21
+    },
+    "2420": {
+        "name": "点満宮",
+        "name_en": "H. picta 'Tenmanguu",
+        "volume": 3,
+        "page": 21
+    },
+    "2421": {
+        "name": "テレサ",
+        "name_en": "H. picta 'Teresa'",
+        "volume": 3,
+        "page": 21
+    },
+    "2422": {
+        "name": "タイガーキング",
+        "name_en": "H. picta 'Tiger King'",
+        "volume": 3,
+        "page": 22
+    },
+    "2423": {
+        "name": "雲山",
+        "name_en": "H. picta 'Unzan'",
+        "volume": 3,
+        "page": 22
+    },
+    "2424": {
+        "name": "有頂天",
+        "name_en": "H. picta 'Utyouten'",
+        "volume": 3,
+        "page": 22
+    },
+    "2425": {
+        "name": "夜叉",
+        "name_en": "H. picta 'Yasya'",
+        "volume": 3,
+        "page": 22
+    },
+    "2426": {
+        "name": "夕霧",
+        "name_en": "H. picta 'Yuugiri'",
+        "volume": 3,
+        "page": 22
+    },
+    "2427": {
+        "name": "雪化粧",
+        "name_en": "H. picta 'Yukigesho'",
+        "volume": 3,
+        "page": 22
+    },
+    "2428": {
+        "name": "雪煙",
+        "name_en": "H. picta 'Yukikemuri'",
+        "volume": 3,
+        "page": 22
+    },
+    "2429": {
+        "name": "雪月",
+        "name_en": "H. picta 'Yukizuki'",
+        "volume": 3,
+        "page": 22
+    },
+    "2430": {
+        "name": "幽谷",
+        "name_en": "H. picta 'Yuukoku'",
+        "volume": 3,
+        "page": 22
+    },
+    "2431": {
+        "name": "若草",
+        "name_en": "H. picta 'Wakakusa'",
+        "volume": 3,
+        "page": 23
+    },
+    "2432": {
+        "name": "ウエディングドレス",
+        "name_en": "H. picta 'Wedding-dress'",
+        "volume": 3,
+        "page": 23
+    },
+    "2433": {
+        "name": "ピグマエア",
+        "name_en": "H. pygmaea",
+        "volume": 3,
+        "page": 23
+    },
+    "2434": {
+        "name": "淡雪",
+        "name_en": "H. pygmaea 'Awayuki'",
+        "volume": 3,
+        "page": 23
+    },
+    "2435": {
+        "name": "ギンサー",
+        "name_en": "H. pygmaea 'Ginsah'",
+        "volume": 3,
+        "page": 23
+    },
+    "2436": {
+        "name": "粉吹雪",
+        "name_en": "H. pygmaea 'Konafubuki'",
+        "volume": 3,
+        "page": 23
+    },
+    "2437": {
+        "name": "ピグマエアミュータント",
+        "name_en": "H. pygmaea 'Mutant'",
+        "volume": 3,
+        "page": 23
+    },
+    "2438": {
+        "name": "シルバーパウダー",
+        "name_en": "H. pygmaea 'Silver Powder'",
+        "volume": 3,
+        "page": 23
+    },
+    "2439": {
+        "name": "スーパーホワイト",
+        "name_en": "H. pygmaea 'Super White'",
+        "volume": 3,
+        "page": 23
+    },
+    "2440": {
+        "name": "雪どけ",
+        "name_en": "H. pygmaea 'Yukidoke'",
+        "volume": 3,
+        "page": 24
+    },
+    "2441": {
+        "name": "雪の降る町",
+        "name_en": "H. pygmaea 'Yukinofurumachi'",
+        "volume": 3,
+        "page": 24
+    },
+    "2442": {
+        "name": "パトリアエ",
+        "name_en": "H. patriae",
+        "volume": 3,
+        "page": 24
+    },
+    "2443": {
+        "name": "パラドクサ",
+        "name_en": "H. paradoxa",
+        "volume": 3,
+        "page": 24
+    },
+    "2444": {
+        "name": "パラドクサ",
+        "name_en": "H. paradoxa",
+        "volume": 3,
+        "page": 24
+    },
+    "2445": {
+        "name": "パラドクサ",
+        "name_en": "H. paradoxa",
+        "volume": 3,
+        "page": 24
+    },
+    "2446": {
+        "name": "ペルマニアエ",
+        "name_en": "H. pehlemanniae",
+        "volume": 3,
+        "page": 24
+    },
+    "2447": {
+        "name": "ペトロフィラ",
+        "name_en": "H. petrophila",
+        "volume": 3,
+        "page": 24
+    },
+    "2448": {
+        "name": "ピクツラタ",
+        "name_en": "H. picturata",
+        "volume": 3,
+        "page": 24
+    },
+    "2449": {
+        "name": "ピリフェラ",
+        "name_en": "H. pilifera",
+        "volume": 3,
+        "page": 25
+    },
+    "2450": {
+        "name": "プレナ",
+        "name_en": "H. plena",
+        "volume": 3,
+        "page": 25
+    },
+    "2451": {
+        "name": "プセウダ",
+        "name_en": "H.pseuda",
+        "volume": 3,
+        "page": 25
+    },
+    "2452": {
+        "name": "プンクタタ",
+        "name_en": "H. punctata",
+        "volume": 3,
+        "page": 25
+    },
+    "2453": {
+        "name": "クイムチカ",
+        "name_en": "H. quimutica",
+        "volume": 3,
+        "page": 25
+    },
+    "2454": {
+        "name": "クイムチカ",
+        "name_en": "H. quimutica",
+        "volume": 3,
+        "page": 25
+    },
+    "2455": {
+        "name": "リギナ",
+        "name_en": "H. rigina",
+        "volume": 3,
+        "page": 25
+    },
+    "2456": {
+        "name": "レツサ",
+        "name_en": "H. retusa",
+        "volume": 3,
+        "page": 25
+    },
+    "2457": {
+        "name": "レツサ",
+        "name_en": "H. retusa",
+        "volume": 3,
+        "page": 25
+    },
+    "2458": {
+        "name": "レツサ",
+        "name_en": "H. retusa",
+        "volume": 3,
+        "page": 26
+    },
+    "2459": {
+        "name": "レテキュタタ",
+        "name_en": "H. reticutata",
+        "volume": 3,
+        "page": 26
+    },
+    "2460": {
+        "name": "レテキュタタ",
+        "name_en": "H. reticutata",
+        "volume": 3,
+        "page": 26
+    },
+    "2461": {
+        "name": "ロイベルゲンシス",
+        "name_en": "H. rooibergensis",
+        "volume": 3,
+        "page": 26
+    },
+    "2462": {
+        "name": "サビタ",
+        "name_en": "H. sabita",
+        "volume": 3,
+        "page": 26
+    },
+    "2463": {
+        "name": "スコッティ",
+        "name_en": "H. scottii",
+        "volume": 3,
+        "page": 26
+    },
+    "2464": {
+        "name": "セッリフェラ",
+        "name_en": "H. setulifera",
+        "volume": 3,
+        "page": 26
+    },
+    "2465": {
+        "name": "シルビコラ",
+        "name_en": "H. silvicola",
+        "volume": 3,
+        "page": 26
+    },
+    "2466": {
+        "name": "シモフリ",
+        "name_en": "H.'Shimofuri'",
+        "volume": 3,
+        "page": 26
+    },
+    "2467": {
+        "name": "シルビアエ",
+        "name_en": "H. sirviae",
+        "volume": 3,
+        "page": 27
+    },
+    "2468": {
+        "name": "スプレンデンス",
+        "name_en": "H. splendens",
+        "volume": 3,
+        "page": 27
+    },
+    "2469": {
+        "name": "スプレンデンス",
+        "name_en": "H. splendens",
+        "volume": 3,
+        "page": 27
+    },
+    "2470": {
+        "name": "スプレンデンス池日セレクト",
+        "name_en": "H. splendens 'Ikeda selcto'",
+        "volume": 3,
+        "page": 27
+    },
+    "2471": {
+        "name": "ホワイト",
+        "name_en": "H. splendens 'White'",
+        "volume": 3,
+        "page": 27
+    },
+    "2472": {
+        "name": "ビッグマミー",
+        "name_en": "H. splendens 'Big Mammy 9",
+        "volume": 3,
+        "page": 27
+    },
+    "2473": {
+        "name": "江隈",
+        "name_en": "No.1 H. splendens 'Ekuma No.1'",
+        "volume": 3,
+        "page": 27
+    },
+    "2474": {
+        "name": "エミール",
+        "name_en": "H. splendens 'Emile'",
+        "volume": 3,
+        "page": 27
+    },
+    "2475": {
+        "name": "一重",
+        "name_en": "H. splendens 'Hitoe'",
+        "volume": 3,
+        "page": 27
+    },
+    "2476": {
+        "name": "石井A",
+        "name_en": "H. splendens 'Ishii-A'",
+        "volume": 3,
+        "page": 28
+    },
+    "2477": {
+        "name": "石井大型",
+        "name_en": "H. splendens 'Ishii Oogata'",
+        "volume": 3,
+        "page": 28
+    },
+    "2478": {
+        "name": "貴",
+        "name_en": "志 H. splendens 'Kishi'",
+        "volume": 3,
+        "page": 28
+    },
+    "2479": {
+        "name": "紅女王",
+        "name_en": "H. splendens 'Kurenai Joou'",
+        "volume": 3,
+        "page": 28
+    },
+    "2480": {
+        "name": "ラブ",
+        "name_en": "H. splendens 'Love'",
+        "volume": 3,
+        "page": 28
+    },
+    "2481": {
+        "name": "紫式部",
+        "name_en": "H. splendens 'Murasaki Shikibu'",
+        "volume": 3,
+        "page": 28
+    },
+    "2482": {
+        "name": "天使",
+        "name_en": "H. splendens 'Tenshi'",
+        "volume": 3,
+        "page": 28
+    },
+    "2483": {
+        "name": "天津",
+        "name_en": "H. splendens 'Tenshin'",
+        "volume": 3,
+        "page": 28
+    },
+    "2484": {
+        "name": "スプリングボクブラケンシス",
+        "name_en": "H. springbokvlakensis",
+        "volume": 3,
+        "page": 28
+    },
+    "2485": {
+        "name": "スプリングボクブラケンシス",
+        "name_en": "H. springbokvlakensis",
+        "volume": 3,
+        "page": 29
+    },
+    "2486": {
+        "name": "スプリングボクブラケンシス",
+        "name_en": "H. springbokvlakensis cocksconbu",
+        "volume": 3,
+        "page": 29
+    },
+    "2487": {
+        "name": "シノハラアミメ",
+        "name_en": "H. splendense'Shinohara-Amime'",
+        "volume": 3,
+        "page": 29
+    },
+    "2488": {
+        "name": "ブラックライン",
+        "name_en": "H. splendense'Black Line'",
+        "volume": 3,
+        "page": 29
+    },
+    "2489": {
+        "name": "魔界",
+        "name_en": "H. splendense'Makai'",
+        "volume": 3,
+        "page": 29
+    },
+    "2490": {
+        "name": "サブレグラリス",
+        "name_en": "H. subregularis",
+        "volume": 3,
+        "page": 29
+    },
+    "2491": {
+        "name": "ターカ",
+        "name_en": "シア H. tarkasia",
+        "volume": 3,
+        "page": 29
+    },
+    "2492": {
+        "name": "テレス",
+        "name_en": "H. teres",
+        "volume": 3,
+        "page": 29
+    },
+    "2493": {
+        "name": "トーメントサ",
+        "name_en": "H. tomentosa",
+        "volume": 3,
+        "page": 29
+    },
+    "2494": {
+        "name": "トリブネリアナ",
+        "name_en": "H. triebneriana",
+        "volume": 3,
+        "page": 30
+    },
+    "2495": {
+        "name": "トーリス",
+        "name_en": "H. tooris",
+        "volume": 3,
+        "page": 30
+    },
+    "2496": {
+        "name": "トランスルーセンス",
+        "name_en": "H. translucens",
+        "volume": 3,
+        "page": 30
+    },
+    "2497": {
+        "name": "バリエガタ",
+        "name_en": "H. variagata",
+        "volume": 3,
+        "page": 30
+    },
+    "2498": {
+        "name": "ベルチナ",
+        "name_en": "H. veltina",
+        "volume": 3,
+        "page": 30
+    },
+    "2499": {
+        "name": "ベルナリス",
+        "name_en": "H. vernalis",
+        "volume": 3,
+        "page": 30
+    },
+    "2500": {
+        "name": "ビタタ",
+        "name_en": "H. vittata",
+        "volume": 3,
+        "page": 30
+    },
+    "2501": {
+        "name": "ザンテネリアナ",
+        "name_en": "H. zanteneriana",
+        "volume": 3,
+        "page": 30
+    },
+    "2502": {
+        "name": "ザンテネリアナ",
+        "name_en": "H. zanteneriana",
+        "volume": 3,
+        "page": 30
+    },
+    "2503": {
+        "name": "網月",
+        "name_en": "H. maughanii 'Amizuki'",
+        "volume": 3,
+        "page": 31
+    },
+    "2504": {
+        "name": "葵春鏡",
+        "name_en": "H. maughanii 'Aoi Harukagami'",
+        "volume": 3,
+        "page": 31
+    },
+    "2505": {
+        "name": "アクアブルー",
+        "name_en": "H. maughanii 'Aqua Blue'",
+        "volume": 3,
+        "page": 31
+    },
+    "2506": {
+        "name": "アトラス",
+        "name_en": "H. maughanii 'Atlas'",
+        "volume": 3,
+        "page": 31
+    },
+    "2507": {
+        "name": "馬琴",
+        "name_en": "H. maughanii 'Bakin'",
+        "volume": 3,
+        "page": 31
+    },
+    "2508": {
+        "name": "ビーンボール",
+        "name_en": "H. maughanii 'Bean ball'",
+        "volume": 3,
+        "page": 31
+    },
+    "2509": {
+        "name": "弁慶",
+        "name_en": "H. maughanii 'Benkei'",
+        "volume": 3,
+        "page": 31
+    },
+    "2510": {
+        "name": "紅月夜",
+        "name_en": "H. maughanii 'Benitukiyo'",
+        "volume": 3,
+        "page": 31
+    },
+    "2511": {
+        "name": "ブラックサンダー",
+        "name_en": "H. maughanii 'Black Thunder'",
+        "volume": 3,
+        "page": 31
+    },
+    "2512": {
+        "name": "ブルーオーロラ",
+        "name_en": "H. maughanii 'Blue Aurora'",
+        "volume": 3,
+        "page": 32
+    },
+    "2513": {
+        "name": "望郷",
+        "name_en": "H. maughanii 'Bokyo'",
+        "volume": 3,
+        "page": 32
+    },
+    "2514": {
+        "name": "盆水",
+        "name_en": "H. maughanii 'Bonsui',",
+        "volume": 3,
+        "page": 32
+    },
+    "2515": {
+        "name": "武勲",
+        "name_en": "H. maughanii 'Bukun'",
+        "volume": 3,
+        "page": 32
+    },
+    "2516": {
+        "name": "地球儀",
+        "name_en": "H. maughanii 'Chikyugi'",
+        "volume": 3,
+        "page": 32
+    },
+    "2517": {
+        "name": "大白渓",
+        "name_en": "H. maughanii 'Oaihakkei'",
+        "volume": 3,
+        "page": 32
+    },
+    "2518": {
+        "name": "大寿海",
+        "name_en": "H. maughanii 'Daijuka'",
+        "volume": 3,
+        "page": 32
+    },
+    "2519": {
+        "name": "大文字",
+        "name_en": "H. maughanii 'Daimonji'",
+        "volume": 3,
+        "page": 32
+    },
+    "2520": {
+        "name": "デイリー",
+        "name_en": "H. maughanii 'Daily'",
+        "volume": 3,
+        "page": 32
+    },
+    "2521": {
+        "name": "ドリーム",
+        "name_en": "H. maughanii 'Dream'",
+        "volume": 3,
+        "page": 33
+    },
+    "2522": {
+        "name": "ドラム",
+        "name_en": "H. maughanii 'Drum'",
+        "volume": 3,
+        "page": 33
+    },
+    "2523": {
+        "name": "エレファントブラック",
+        "name_en": "H. maughanii 'Elephant Black'",
+        "volume": 3,
+        "page": 33
+    },
+    "2524": {
+        "name": "エルザ",
+        "name_en": "H. maughanii 'Elsa'",
+        "volume": 3,
+        "page": 33
+    },
+    "2525": {
+        "name": "園遊会",
+        "name_en": "H. maughanii 'Enyuka'",
+        "volume": 3,
+        "page": 33
+    },
+    "2526": {
+        "name": "富士の光",
+        "name_en": "H. maughanii 'Fuji-no-Hikari'",
+        "volume": 3,
+        "page": 33
+    },
+    "2527": {
+        "name": "富士の舞",
+        "name_en": "H. maughanii 'Fuji-no-Mai'",
+        "volume": 3,
+        "page": 33
+    },
+    "2528": {
+        "name": "富士の月",
+        "name_en": "H. maughanii 'Fuji-no-Tsuki'",
+        "volume": 3,
+        "page": 33
+    },
+    "2529": {
+        "name": "富士の夢",
+        "name_en": "H. maughanii 'Fuji-no-Yume'",
+        "volume": 3,
+        "page": 33
+    },
+    "2530": {
+        "name": "富士の雪",
+        "name_en": "H. maughanii 'Fuji-no-Yuki'",
+        "volume": 3,
+        "page": 34
+    },
+    "2531": {
+        "name": "フレアー",
+        "name_en": "H. maughanii 'Flare'",
+        "volume": 3,
+        "page": 34
+    },
+    "2532": {
+        "name": "風神",
+        "name_en": "H. maughanii 'Fujin'",
+        "volume": 3,
+        "page": 34
+    },
+    "2533": {
+        "name": "冬花火",
+        "name_en": "H. maughanii 'Fuyuhanabi'",
+        "volume": 3,
+        "page": 34
+    },
+    "2534": {
+        "name": "源氏",
+        "name_en": "H. maughanii 'Genji'",
+        "volume": 3,
+        "page": 34
+    },
+    "2535": {
+        "name": "幻竜",
+        "name_en": "H. maughanii 'Genryu'",
+        "volume": 3,
+        "page": 34
+    },
+    "2536": {
+        "name": "銀河伝説",
+        "name_en": "H. maughanii 'Gingadensetsu'",
+        "volume": 3,
+        "page": 34
+    },
+    "2537": {
+        "name": "銀の鳥",
+        "name_en": "H. maughanii 'Gin-no-Tori'",
+        "volume": 3,
+        "page": 34
+    },
+    "2538": {
+        "name": "豪傑",
+        "name_en": "H. maughanii 'Gouketsu'",
+        "volume": 3,
+        "page": 34
+    },
+    "2539": {
+        "name": "白馬王子",
+        "name_en": "H. maughanii 'Hakubaouji'",
+        "volume": 3,
+        "page": 35
+    },
+    "2540": {
+        "name": "白美人",
+        "name_en": "H. maughanii 'Hakubijin'",
+        "volume": 3,
+        "page": 35
+    },
+    "2541": {
+        "name": "白磁レンズ",
+        "name_en": "H. maughanii 'Hakuji Lens'",
+        "volume": 3,
+        "page": 35
+    },
+    "2542": {
+        "name": "白熱",
+        "name_en": "H. maughanii 'Hakunetsu'",
+        "volume": 3,
+        "page": 35
+    },
+    "2543": {
+        "name": "白山連峰",
+        "name_en": "H. maughanii 'Hakusanrenpou'",
+        "volume": 3,
+        "page": 35
+    },
+    "2544": {
+        "name": "白線稲妻",
+        "name_en": "H. maughanii 'Hakusen Inazuma'",
+        "volume": 3,
+        "page": 35
+    },
+    "2545": {
+        "name": "初冠雪",
+        "name_en": "H. maughanii 'Hatsukansetsu'",
+        "volume": 3,
+        "page": 35
+    },
+    "2546": {
+        "name": "初夢",
+        "name_en": "H. maughanii 'Hatsuyume'",
+        "volume": 3,
+        "page": 35
+    },
+    "2547": {
+        "name": "花雪洞",
+        "name_en": "H. maughanii 'Hanabonbori'",
+        "volume": 3,
+        "page": 35
+    },
+    "2548": {
+        "name": "兵馬桶",
+        "name_en": "H. maughanii 'Heibayou'",
+        "volume": 3,
+        "page": 36
+    },
+    "2549": {
+        "name": "ヘラクレス",
+        "name_en": "H. maughanii 'Heracules'",
+        "volume": 3,
+        "page": 36
+    },
+    "2550": {
+        "name": "日の丸",
+        "name_en": "H. maughanii 'Hinomaru'",
+        "volume": 3,
+        "page": 36
+    },
+    "2551": {
+        "name": "翡翠宮",
+        "name_en": "H. maughanii 'Hisuikyu'",
+        "volume": 3,
+        "page": 36
+    },
+    "2552": {
+        "name": "翡翠龍・白妙スペシャル",
+        "name_en": "H. maughanii 'Hisuiryu'",
+        "volume": 3,
+        "page": 36
+    },
+    "2553": {
+        "name": "蛍火",
+        "name_en": "H. maughanii 'Hotarubi・",
+        "volume": 3,
+        "page": 36
+    },
+    "2554": {
+        "name": "北條",
+        "name_en": "H. maughanii 'Hojyou'",
+        "volume": 3,
+        "page": 36
+    },
+    "2555": {
+        "name": "氷河",
+        "name_en": "H. maughanii 'Hyoga'",
+        "volume": 3,
+        "page": 36
+    },
+    "2556": {
+        "name": "稲村龍",
+        "name_en": "H. maughanii 'Inamuraryu'",
+        "volume": 3,
+        "page": 36
+    },
+    "2557": {
+        "name": "稲妻",
+        "name_en": "H. maughanii 'Inazuma'",
+        "volume": 3,
+        "page": 37
+    },
+    "2558": {
+        "name": "石井雷電",
+        "name_en": "H. maughanii 'Ishii Raiden'",
+        "volume": 3,
+        "page": 37
+    },
+    "2559": {
+        "name": "石井象牙",
+        "name_en": "H. maughanii 'Ishii-zoge'",
+        "volume": 3,
+        "page": 37
+    },
+    "2560": {
+        "name": "岩鳴",
+        "name_en": "H. maughanii 'Iwanaki'",
+        "volume": 3,
+        "page": 37
+    },
+    "2561": {
+        "name": "火焔",
+        "name_en": "H. maughanii 'Kaen'",
+        "volume": 3,
+        "page": 37
+    },
+    "2562": {
+        "name": "火焔竜",
+        "name_en": "H. maughanii 'Kaenryu'",
+        "volume": 3,
+        "page": 37
+    },
+    "2563": {
+        "name": "かまくら",
+        "name_en": "H. maughanii 'Kamakura'",
+        "volume": 3,
+        "page": 37
+    },
+    "2564": {
+        "name": "神池",
+        "name_en": "H. maughanii 'Kamiike'",
+        "volume": 3,
+        "page": 37
+    },
+    "2565": {
+        "name": "乾盃",
+        "name_en": "H. maughanii 'Kanpai'",
+        "volume": 3,
+        "page": 37
+    },
+    "2566": {
+        "name": "関羽",
+        "name_en": "H. maughanii 'Kanu'",
+        "volume": 3,
+        "page": 38
+    },
+    "2567": {
+        "name": "木の芽風",
+        "name_en": "H. maughanii 'Konomekaze'",
+        "volume": 3,
+        "page": 38
+    },
+    "2568": {
+        "name": "金輪",
+        "name_en": "H. maughanii 'Konrin'",
+        "volume": 3,
+        "page": 38
+    },
+    "2569": {
+        "name": "華竜",
+        "name_en": "H. maughanii 'Karyu'",
+        "volume": 3,
+        "page": 38
+    },
+    "2570": {
+        "name": "霞",
+        "name_en": "H. maughanii 'Kasumi'",
+        "volume": 3,
+        "page": 38
+    },
+    "2571": {
+        "name": "菊紋紫",
+        "name_en": "H. maughanii 'Kikumon-Murasaki'",
+        "volume": 3,
+        "page": 38
+    },
+    "2572": {
+        "name": "キングダム",
+        "name_en": "H. maughanii 'Kingdum'",
+        "volume": 3,
+        "page": 38
+    },
+    "2573": {
+        "name": "キングG",
+        "name_en": "H. maughanii 'King G'",
+        "volume": 3,
+        "page": 38
+    },
+    "2574": {
+        "name": "菊花桜",
+        "name_en": "H. maughanii 'Kikka-Zakura'",
+        "volume": 3,
+        "page": 38
+    },
+    "2575": {
+        "name": "煙",
+        "name_en": "H. maughanii 'Kirameki'",
+        "volume": 3,
+        "page": 39
+    },
+    "2576": {
+        "name": "琥珀",
+        "name_en": "H. maughanii 'Kohaku'",
+        "volume": 3,
+        "page": 39
+    },
+    "2577": {
+        "name": "小筆",
+        "name_en": "H. maughanii 'Kofude'",
+        "volume": 3,
+        "page": 39
+    },
+    "2578": {
+        "name": "心の色",
+        "name_en": "H. maughanii  Kokoro-no-iro'",
+        "volume": 3,
+        "page": 39
+    },
+    "2579": {
+        "name": "降臨",
+        "name_en": "H. maughanii 'Karin'",
+        "volume": 3,
+        "page": 39
+    },
+    "2580": {
+        "name": "巨象",
+        "name_en": "H. maughanii 'Kyozou'",
+        "volume": 3,
+        "page": 39
+    },
+    "2581": {
+        "name": "ラストストリー",
+        "name_en": "H. maughanii 'Last Story",
+        "volume": 3,
+        "page": 39
+    },
+    "2582": {
+        "name": "まりな",
+        "name_en": "H. maughanii 'Marina'",
+        "volume": 3,
+        "page": 39
+    },
+    "2583": {
+        "name": "マサリン",
+        "name_en": "H. maughanii 'Masarin'",
+        "volume": 3,
+        "page": 39
+    },
+    "2584": {
+        "name": "芽生",
+        "name_en": "H. maughanii 'Meu'",
+        "volume": 3,
+        "page": 40
+    },
+    "2585": {
+        "name": "翠",
+        "name_en": "H. maughanii 'Midori'",
+        "volume": 3,
+        "page": 40
+    },
+    "2586": {
+        "name": "緑菊",
+        "name_en": "H. maughanii 'Midorigiku'",
+        "volume": 3,
+        "page": 40
+    },
+    "2587": {
+        "name": "ミケランジェロ",
+        "name_en": "H. maughanii 'Michelangelo'",
+        "volume": 3,
+        "page": 40
+    },
+    "2588": {
+        "name": "ミレナリオ",
+        "name_en": "H. maughanii 'Millenario'",
+        "volume": 3,
+        "page": 40
+    },
+    "2589": {
+        "name": "もののけ",
+        "name_en": "H. maughanii 'Mononoke'",
+        "volume": 3,
+        "page": 40
+    },
+    "2590": {
+        "name": "紫美人",
+        "name_en": "H. maughanii 'Murasakibijin'",
+        "volume": 3,
+        "page": 40
+    },
+    "2591": {
+        "name": "紫稲妻",
+        "name_en": "H. maughanii 'Murasaki Inazuma'",
+        "volume": 3,
+        "page": 40
+    },
+    "2592": {
+        "name": "紫レンズ",
+        "name_en": "H. maughanii 'Murasaki Lens'",
+        "volume": 3,
+        "page": 40
+    },
+    "2593": {
+        "name": "紫の上",
+        "name_en": "H. maughanii 'Murasakinoue'",
+        "volume": 3,
+        "page": 41
+    },
+    "2594": {
+        "name": "紫白隠",
+        "name_en": "H. maughanii 'Murasaki Hakuon'",
+        "volume": 3,
+        "page": 41
+    },
+    "2595": {
+        "name": "波の華",
+        "name_en": "H. maughanii 'Nami-no-Hana'",
+        "volume": 3,
+        "page": 41
+    },
+    "2596": {
+        "name": "南アの星",
+        "name_en": "H. maughanii 'Nana-no-Hoshi'",
+        "volume": 3,
+        "page": 41
+    },
+    "2597": {
+        "name": "名和",
+        "name_en": "H. maughanii 'Nawa'",
+        "volume": 3,
+        "page": 41
+    },
+    "2598": {
+        "name": "仁王眼",
+        "name_en": "H. maughanii 'Niougan",
+        "volume": 3,
+        "page": 41
+    },
+    "2599": {
+        "name": "信長",
+        "name_en": "H. maughanii 'Nobunaga'",
+        "volume": 3,
+        "page": 41
+    },
+    "2600": {
+        "name": "おたふく",
+        "name_en": "H. maughanii 'Otafuku",
+        "volume": 3,
+        "page": 41
+    },
+    "2601": {
+        "name": "プラネタリウム",
+        "name_en": "H. maughanii 'Planetarium'",
+        "volume": 3,
+        "page": 41
+    },
+    "2602": {
+        "name": "ピカ‘ノ",
+        "name_en": "H. maughanii 'Picasso'",
+        "volume": 3,
+        "page": 42
+    },
+    "2603": {
+        "name": "雷撃",
+        "name_en": "H. maughanii 'Raigek,",
+        "volume": 3,
+        "page": 42
+    },
+    "2604": {
+        "name": "輪宝",
+        "name_en": "H. maughanii 'Rimpo'",
+        "volume": 3,
+        "page": 42
+    },
+    "2605": {
+        "name": "ローハン",
+        "name_en": "H. maughanii 'Rohan'",
+        "volume": 3,
+        "page": 42
+    },
+    "2606": {
+        "name": "呂万",
+        "name_en": "H. maughanii 'Roman'",
+        "volume": 3,
+        "page": 42
+    },
+    "2607": {
+        "name": "龍馬",
+        "name_en": "H. maughanii 'Ryoma'",
+        "volume": 3,
+        "page": 42
+    },
+    "2608": {
+        "name": "竜炎",
+        "name_en": "H. maughanii 'Ryuen'",
+        "volume": 3,
+        "page": 42
+    },
+    "2609": {
+        "name": "竜光",
+        "name_en": "H. maughanii 'Ryukou'",
+        "volume": 3,
+        "page": 42
+    },
+    "2610": {
+        "name": "流星群",
+        "name_en": "H. maughanii 'Ryuseigun'",
+        "volume": 3,
+        "page": 42
+    },
+    "2611": {
+        "name": "西湖",
+        "name_en": "H. maughanii 'Saiko'",
+        "volume": 3,
+        "page": 43
+    },
+    "2612": {
+        "name": "酒井オリオン",
+        "name_en": "H. maughanii 'Sakai Orion'",
+        "volume": 3,
+        "page": 43
+    },
+    "2613": {
+        "name": "盃",
+        "name_en": "H. maughanii 'Sakazuki'",
+        "volume": 3,
+        "page": 43
+    },
+    "2614": {
+        "name": "桜富士",
+        "name_en": "H. maughanii 'Sakurafuji'",
+        "volume": 3,
+        "page": 43
+    },
+    "2615": {
+        "name": "讃岐富士",
+        "name_en": "H. maughanii 'Sanukifuji'",
+        "volume": 3,
+        "page": 43
+    },
+    "2616": {
+        "name": "里桜",
+        "name_en": "H. maughanii 'Satozakura'",
+        "volume": 3,
+        "page": 43
+    },
+    "2617": {
+        "name": "聖母",
+        "name_en": "H. maughanii 'Seibo'",
+        "volume": 3,
+        "page": 43
+    },
+    "2618": {
+        "name": "星光",
+        "name_en": "H. maughanii 'Seiko'",
+        "volume": 3,
+        "page": 43
+    },
+    "2619": {
+        "name": "青嵐",
+        "name_en": "H. maughanii 'Seiran'",
+        "volume": 3,
+        "page": 43
+    },
+    "2620": {
+        "name": "青典",
+        "name_en": "H. maughanii 'Seiten'",
+        "volume": 3,
+        "page": 44
+    },
+    "2621": {
+        "name": "雪景",
+        "name_en": "H. maughanii 'Sekkei'",
+        "volume": 3,
+        "page": 44
+    },
+    "2622": {
+        "name": "雪山",
+        "name_en": "H. maughanii 'Setsuzan'",
+        "volume": 3,
+        "page": 44
+    },
+    "2623": {
+        "name": "雪山",
+        "name_en": "H. maughanii 'Setsuzan'",
+        "volume": 3,
+        "page": 44
+    },
+    "2624": {
+        "name": "紫鳳",
+        "name_en": "H. maughanii 'Shihou'",
+        "volume": 3,
+        "page": 44
+    },
+    "2625": {
+        "name": "霜柱",
+        "name_en": "H. maughanii 'Shimobashira'",
+        "volume": 3,
+        "page": 44
+    },
+    "2626": {
+        "name": "信濃富士",
+        "name_en": "H. maughanii 'Shinanofuji'",
+        "volume": 3,
+        "page": 44
+    },
+    "2627": {
+        "name": "白神",
+        "name_en": "H. maughanii 'Shiragami'",
+        "volume": 3,
+        "page": 44
+    },
+    "2628": {
+        "name": "白糸の滝",
+        "name_en": "H. maughanii 'Shiraitonotaki'",
+        "volume": 3,
+        "page": 44
+    },
+    "2629": {
+        "name": "白雪",
+        "name_en": "H. maughanii 'Shirayuki'",
+        "volume": 3,
+        "page": 45
+    },
+    "2630": {
+        "name": "白網綴",
+        "name_en": "H. maughanii 'Shiroamitsuzuri'",
+        "volume": 3,
+        "page": 45
+    },
+    "2631": {
+        "name": "獅子神",
+        "name_en": "H. maughanii 'Shishigami'",
+        "volume": 3,
+        "page": 45
+    },
+    "2632": {
+        "name": "昇竜",
+        "name_en": "H. maughanii 'Shouryu'",
+        "volume": 3,
+        "page": 45
+    },
+    "2633": {
+        "name": "祝盃",
+        "name_en": "H. maughanii 'Shukuhai'",
+        "volume": 3,
+        "page": 45
+    },
+    "2634": {
+        "name": "雫",
+        "name_en": "H. maughanii 'Shizuku'",
+        "volume": 3,
+        "page": 45
+    },
+    "2635": {
+        "name": "春鳳",
+        "name_en": "H. maughanii 'Shunpou'",
+        "volume": 3,
+        "page": 45
+    },
+    "2636": {
+        "name": "春麗",
+        "name_en": "H. maughanii 'Shunrei'",
+        "volume": 3,
+        "page": 45
+    },
+    "2637": {
+        "name": "シルバーコロナ",
+        "name_en": "H. maughanii 'Silver Corona'",
+        "volume": 3,
+        "page": 45
+    },
+    "2638": {
+        "name": "スノーダイヤモンド",
+        "name_en": "H. maughanii 'Snow Diamond'",
+        "volume": 3,
+        "page": 46
+    },
+    "2639": {
+        "name": "スパイダー",
+        "name_en": "H. maughanii 'Spider'",
+        "volume": 3,
+        "page": 46
+    },
+    "2640": {
+        "name": "スプラッシュ",
+        "name_en": "H. maughanii 'Splash'",
+        "volume": 3,
+        "page": 46
+    },
+    "2641": {
+        "name": "昴",
+        "name_en": "H. maughanii 'Subaru'",
+        "volume": 3,
+        "page": 46
+    },
+    "2642": {
+        "name": "翠冠",
+        "name_en": "H. maughanii 'Suikan'",
+        "volume": 3,
+        "page": 46
+    },
+    "2643": {
+        "name": "水門の舞",
+        "name_en": "H. maughanii 'Suimon-no-Mai'",
+        "volume": 3,
+        "page": 46
+    },
+    "2644": {
+        "name": "スーパーネット",
+        "name_en": "H. maughanii 'Supernet'",
+        "volume": 3,
+        "page": 46
+    },
+    "2645": {
+        "name": "スーパーパラダイス",
+        "name_en": "H. maughanii 'Super Paradise'",
+        "volume": 3,
+        "page": 46
+    },
+    "2646": {
+        "name": "スリガラス",
+        "name_en": "H. maughanii 'Surigarasu'",
+        "volume": 3,
+        "page": 46
+    },
+    "2647": {
+        "name": "大宝",
+        "name_en": "H. maughanii 'Taihou'",
+        "volume": 3,
+        "page": 47
+    },
+    "2648": {
+        "name": "大光",
+        "name_en": "H. maughanii 'Taikou'",
+        "volume": 3,
+        "page": 47
+    },
+    "2649": {
+        "name": "高砂",
+        "name_en": "H. maughanii  Takasago",
+        "volume": 3,
+        "page": 47
+    },
+    "2650": {
+        "name": "玉龍",
+        "name_en": "H. maughanii 'Tamaryu",
+        "volume": 3,
+        "page": 47
+    },
+    "2651": {
+        "name": "手毬",
+        "name_en": "H. maughanii 'Temari'",
+        "volume": 3,
+        "page": 47
+    },
+    "2652": {
+        "name": "天涯",
+        "name_en": "H. maughanii 'Tengai'",
+        "volume": 3,
+        "page": 47
+    },
+    "2653": {
+        "name": "特大無紋レンズ",
+        "name_en": "H. maughanii 'Tokudai Mumon Lenz'",
+        "volume": 3,
+        "page": 47
+    },
+    "2654": {
+        "name": "棟梁",
+        "name_en": "H. maughanii 'Toryou'",
+        "volume": 3,
+        "page": 47
+    },
+    "2655": {
+        "name": "月夜の誉",
+        "name_en": "H. maughanii 'Tsukiyo-no-Homare'",
+        "volume": 3,
+        "page": 47
+    },
+    "2656": {
+        "name": "薄雲",
+        "name_en": "H. maughanii 'Usugumo'",
+        "volume": 3,
+        "page": 48
+    },
+    "2657": {
+        "name": "バレンタイン",
+        "name_en": "H. maughanii 'Valentine'",
+        "volume": 3,
+        "page": 48
+    },
+    "2658": {
+        "name": "山吹雪",
+        "name_en": "H. maughanii 'Yamafubuki'",
+        "volume": 3,
+        "page": 48
+    },
+    "2659": {
+        "name": "宵闇",
+        "name_en": "H. maughanii 'Yoiyami'",
+        "volume": 3,
+        "page": 48
+    },
+    "2660": {
+        "name": "横綱",
+        "name_en": "H. maughanii 'Yokozuna'",
+        "volume": 3,
+        "page": 48
+    },
+    "2661": {
+        "name": "幽",
+        "name_en": "H. maughanii 'Yuu'",
+        "volume": 3,
+        "page": 48
+    },
+    "2662": {
+        "name": "雪風",
+        "name_en": "H. maughanii 'Yukikaze'",
+        "volume": 3,
+        "page": 48
+    },
+    "2663": {
+        "name": "夢翁",
+        "name_en": "H. maughanii 'Yumeokina'",
+        "volume": 3,
+        "page": 48
+    },
+    "2664": {
+        "name": "Z-1",
+        "name_en": "H. maughanii 'Z-1' ",
+        "volume": 3,
+        "page": 48
+    },
+    "2665": {
+        "name": "赤影",
+        "name_en": "H. truncata 'Akakage'",
+        "volume": 3,
+        "page": 49
+    },
+    "2666": {
+        "name": "赤鬼",
+        "name_en": "H. truncata 'Akaoni'",
+        "volume": 3,
+        "page": 49
+    },
+    "2667": {
+        "name": "アルタミラ",
+        "name_en": "H. truncata 'Arutamira'",
+        "volume": 3,
+        "page": 49
+    },
+    "2668": {
+        "name": "網元",
+        "name_en": "H. truncata 'Amimoto'",
+        "volume": 3,
+        "page": 49
+    },
+    "2669": {
+        "name": "アニー",
+        "name_en": "H. truncata 'Anny'",
+        "volume": 3,
+        "page": 49
+    },
+    "2670": {
+        "name": "青苔",
+        "name_en": "H. truncata 'Aogoke'",
+        "volume": 3,
+        "page": 49
+    },
+    "2671": {
+        "name": "アラビアンナイト",
+        "name_en": "H. truncata 'Arabian Night'",
+        "volume": 3,
+        "page": 49
+    },
+    "2672": {
+        "name": "アレシオ",
+        "name_en": "H. truncata 'Areshio'",
+        "volume": 3,
+        "page": 49
+    },
+    "2673": {
+        "name": "朝霞",
+        "name_en": "H. truncata 'Asagasumi'",
+        "volume": 3,
+        "page": 49
+    },
+    "2674": {
+        "name": "アシビキ",
+        "name_en": "H. truncata 'Ashibiki'",
+        "volume": 3,
+        "page": 50
+    },
+    "2675": {
+        "name": "アスカ",
+        "name_en": "H. truncata 'Asuka'",
+        "volume": 3,
+        "page": 50
+    },
+    "2676": {
+        "name": "ベアキャット",
+        "name_en": "H. truncata 'Bear Cat'",
+        "volume": 3,
+        "page": 50
+    },
+    "2677": {
+        "name": "ビッグワン",
+        "name_en": "H. truncata 'Big-1'",
+        "volume": 3,
+        "page": 50
+    },
+    "2678": {
+        "name": "ブラックスノー",
+        "name_en": "H. truncata 'Black Snow'",
+        "volume": 3,
+        "page": 50
+    },
+    "2679": {
+        "name": "シャンペン",
+        "name_en": "H. truncata 'Champagne'",
+        "volume": 3,
+        "page": 50
+    },
+    "2680": {
+        "name": "シンデレラストーリー",
+        "name_en": "H. truncata 'Cinderella Story'",
+        "volume": 3,
+        "page": 50
+    },
+    "2681": {
+        "name": "大磁",
+        "name_en": "H. truncata 'Oaiji'",
+        "volume": 3,
+        "page": 50
+    },
+    "2682": {
+        "name": "大権現",
+        "name_en": "H. truncata 'Daigongen'",
+        "volume": 3,
+        "page": 50
+    },
+    "2683": {
+        "name": "大蛇",
+        "name_en": "H. truncata 'Oaija'",
+        "volume": 3,
+        "page": 51
+    },
+    "2684": {
+        "name": "大王",
+        "name_en": "H. truncata 'Daiou'",
+        "volume": 3,
+        "page": 51
+    },
+    "2685": {
+        "name": "大刀",
+        "name_en": "H. truncata 'Daitou'",
+        "volume": 3,
+        "page": 51
+    },
+    "2686": {
+        "name": "ダイヤ",
+        "name_en": "H. truncata 'Oaiya'",
+        "volume": 3,
+        "page": 51
+    },
+    "2687": {
+        "name": "円満",
+        "name_en": "H. truncata 'Enman'",
+        "volume": 3,
+        "page": 51
+    },
+    "2688": {
+        "name": "遠州桜",
+        "name_en": "H. truncata 'Enshuzakura'",
+        "volume": 3,
+        "page": 51
+    },
+    "2689": {
+        "name": "EX",
+        "name_en": "H. truncata 'EX'",
+        "volume": 3,
+        "page": 51
+    },
+    "2690": {
+        "name": "玄武帝＝玄武スペシャル",
+        "name_en": "H. truncata 'Genbutei'",
+        "volume": 3,
+        "page": 51
+    },
+    "2691": {
+        "name": "銀緑",
+        "name_en": "H. truncata 'Ginryoku'",
+        "volume": 3,
+        "page": 51
+    },
+    "2692": {
+        "name": "銀露",
+        "name_en": "H. truncata 'Gintsuyu",
+        "volume": 3,
+        "page": 52
+    },
+    "2693": {
+        "name": "グレート",
+        "name_en": "H. truncata 'Great'",
+        "volume": 3,
+        "page": 52
+    },
+    "2694": {
+        "name": "グリーンオーロラ",
+        "name_en": "H. truncata 'Green Aulora'",
+        "volume": 3,
+        "page": 52
+    },
+    "2695": {
+        "name": "グリーンクラサ",
+        "name_en": "H. truncata 'Green Crassa'",
+        "volume": 3,
+        "page": 52
+    },
+    "2696": {
+        "name": "グリーンシャワー",
+        "name_en": "H. truncata 'Green Shower'",
+        "volume": 3,
+        "page": 52
+    },
+    "2697": {
+        "name": "白鳥座",
+        "name_en": "H. truncata 'Hakuchoza'",
+        "volume": 3,
+        "page": 52
+    },
+    "2698": {
+        "name": "白銀マッシュルーム",
+        "name_en": "H. truncata 'Hakugin Mashroom'",
+        "volume": 3,
+        "page": 52
+    },
+    "2699": {
+        "name": "白鳳殿",
+        "name_en": "H. truncata 'Hakuhoden'",
+        "volume": 3,
+        "page": 52
+    },
+    "2700": {
+        "name": "白竜殿",
+        "name_en": "H. truncata 'Hakuryuden'",
+        "volume": 3,
+        "page": 52
+    },
+    "2701": {
+        "name": "白山",
+        "name_en": "H. truncata 'Hakusan'",
+        "volume": 3,
+        "page": 53
+    },
+    "2702": {
+        "name": "白閃晃",
+        "name_en": "H. truncata 'Hakusenkou'",
+        "volume": 3,
+        "page": 53
+    },
+    "2703": {
+        "name": "白線流し",
+        "name_en": "H. truncata 'Hakusennagashi'",
+        "volume": 3,
+        "page": 53
+    },
+    "2704": {
+        "name": "白秋",
+        "name_en": "H. truncata 'Hakusyu'",
+        "volume": 3,
+        "page": 53
+    },
+    "2705": {
+        "name": "花きらら",
+        "name_en": "H. truncata 'Hanakirara'",
+        "volume": 3,
+        "page": 53
+    },
+    "2706": {
+        "name": "花くれない",
+        "name_en": "H. truncata 'Hanakurena',",
+        "volume": 3,
+        "page": 53
+    },
+    "2707": {
+        "name": "花弥生",
+        "name_en": "H. truncata  Hanayayo,",
+        "volume": 3,
+        "page": 53
+    },
+    "2708": {
+        "name": "卑弥呼",
+        "name_en": "H. truncata 'Himiko'",
+        "volume": 3,
+        "page": 53
+    },
+    "2709": {
+        "name": "飛竜",
+        "name_en": "H. truncata 'Hiryu'",
+        "volume": 3,
+        "page": 53
+    },
+    "2710": {
+        "name": "火影",
+        "name_en": "H. truncata 'Hokage'",
+        "volume": 3,
+        "page": 54
+    },
+    "2711": {
+        "name": "北斎",
+        "name_en": "H. truncata 'Hokusai'",
+        "volume": 3,
+        "page": 54
+    },
+    "2712": {
+        "name": "星影",
+        "name_en": "H. truncata 'Hoshikage'",
+        "volume": 3,
+        "page": 54
+    },
+    "2713": {
+        "name": "風琴",
+        "name_en": "H. truncata 'Huukin'",
+        "volume": 3,
+        "page": 54
+    },
+    "2714": {
+        "name": "冬の緑",
+        "name_en": "H. truncata 'Huyu-no-Midori'",
+        "volume": 3,
+        "page": 54
+    },
+    "2715": {
+        "name": "伊文",
+        "name_en": "H. truncata 'Ibun'",
+        "volume": 3,
+        "page": 54
+    },
+    "2716": {
+        "name": "磯の上",
+        "name_en": "H. truncata 'Isonoue'",
+        "volume": 3,
+        "page": 54
+    },
+    "2717": {
+        "name": "ジュリアン",
+        "name_en": "H. truncata 'Julian'",
+        "volume": 3,
+        "page": 54
+    },
+    "2718": {
+        "name": "ジュリエット",
+        "name_en": "H. truncata 'Juliette'",
+        "volume": 3,
+        "page": 54
+    },
+    "2719": {
+        "name": "貝吹",
+        "name_en": "H. truncata 'Kaifuku'",
+        "volume": 3,
+        "page": 55
+    },
+    "2720": {
+        "name": "柿田川",
+        "name_en": "H. truncata 'Kakitagawa'",
+        "volume": 3,
+        "page": 55
+    },
+    "2721": {
+        "name": "鎌谷",
+        "name_en": "H. truncata 'Kamaya'",
+        "volume": 3,
+        "page": 55
+    },
+    "2722": {
+        "name": "カシミール",
+        "name_en": "H. truncata 'Kashmir'",
+        "volume": 3,
+        "page": 55
+    },
+    "2723": {
+        "name": "空海",
+        "name_en": "H. truncata 'Kukai'",
+        "volume": 3,
+        "page": 55
+    },
+    "2724": {
+        "name": "隈取",
+        "name_en": "H. truncata 'Kumadori'",
+        "volume": 3,
+        "page": 55
+    },
+    "2725": {
+        "name": "雲型コンゲスタ",
+        "name_en": "H. truncata 'Kumogata Congesta'",
+        "volume": 3,
+        "page": 55
+    },
+    "2726": {
+        "name": "くの字",
+        "name_en": "H. truncata 'Kunoji'",
+        "volume": 3,
+        "page": 55
+    },
+    "2727": {
+        "name": "苦楽",
+        "name_en": "H. truncata 'Kuraku'",
+        "volume": 3,
+        "page": 55
+    },
+    "2728": {
+        "name": "レンズ",
+        "name_en": "H. truncata 'Lens'",
+        "volume": 3,
+        "page": 56
+    },
+    "2729": {
+        "name": "窓の雪",
+        "name_en": "H. truncata 'Mado-no-Yuki'",
+        "volume": 3,
+        "page": 56
+    },
+    "2730": {
+        "name": "曲玉",
+        "name_en": "H. truncata 'Magatama'",
+        "volume": 3,
+        "page": 56
+    },
+    "2731": {
+        "name": "マウリン",
+        "name_en": "H. truncata 'Maureen'",
+        "volume": 3,
+        "page": 56
+    },
+    "2732": {
+        "name": "乱れ髪",
+        "name_en": "H. truncata 'Midaregami'",
+        "volume": 3,
+        "page": 56
+    },
+    "2733": {
+        "name": "緑",
+        "name_en": "H. truncata 'Midori'",
+        "volume": 3,
+        "page": 56
+    },
+    "2734": {
+        "name": "緑豚",
+        "name_en": "H. truncata 'Midoributa'",
+        "volume": 3,
+        "page": 56
+    },
+    "2735": {
+        "name": "マッシュルーム",
+        "name_en": "H. truncata 'Mushroom'",
+        "volume": 3,
+        "page": 56
+    },
+    "2736": {
+        "name": "波紋",
+        "name_en": "H. truncata 'Namimon'",
+        "volume": 3,
+        "page": 56
+    },
+    "2737": {
+        "name": "南極の峰",
+        "name_en": "H. truncata 'Nankyoku-no-Mine ",
+        "volume": 3,
+        "page": 57
+    },
+    "2738": {
+        "name": "南洲",
+        "name_en": "H. truncata 'Nansyu'",
+        "volume": 3,
+        "page": 57
+    },
+    "2739": {
+        "name": "名主",
+        "name_en": "H. truncata  Nanush'",
+        "volume": 3,
+        "page": 57
+    },
+    "2740": {
+        "name": "根本写楽",
+        "name_en": "H. truncata 'Nemotosharaku ",
+        "volume": 3,
+        "page": 57
+    },
+    "2741": {
+        "name": "ネパール",
+        "name_en": "H. truncata 'Nepal'",
+        "volume": 3,
+        "page": 57
+    },
+    "2742": {
+        "name": "西明黒",
+        "name_en": "H. truncata 'Nishiakikuro'",
+        "volume": 3,
+        "page": 57
+    },
+    "2743": {
+        "name": "西変目",
+        "name_en": "H. truncata 'Nishihenmoku'",
+        "volume": 3,
+        "page": 57
+    },
+    "2744": {
+        "name": "西の緑",
+        "name_en": "H. truncata 'Nishi-no-Midori'",
+        "volume": 3,
+        "page": 57
+    },
+    "2745": {
+        "name": "翁",
+        "name_en": "H. truncata 'Okina'",
+        "volume": 3,
+        "page": 57
+    },
+    "2746": {
+        "name": "大河原翁",
+        "name_en": "H. truncata 'Oogawara Okina'",
+        "volume": 3,
+        "page": 58
+    },
+    "2747": {
+        "name": "大波",
+        "name_en": "H. truncata 'Oonami'",
+        "volume": 3,
+        "page": 58
+    },
+    "2748": {
+        "name": "大鷹",
+        "name_en": "H. truncata 'Ootaka'",
+        "volume": 3,
+        "page": 58
+    },
+    "2749": {
+        "name": "ペガサス",
+        "name_en": "H. truncata 'Pegasus'",
+        "volume": 3,
+        "page": 58
+    },
+    "2750": {
+        "name": "ファントム",
+        "name_en": "H. truncata 'Phantom'",
+        "volume": 3,
+        "page": 58
+    },
+    "2751": {
+        "name": "パイレーツ",
+        "name_en": "H. truncata 'Pirates'",
+        "volume": 3,
+        "page": 58
+    },
+    "2752": {
+        "name": "プラチナコンゲスタ",
+        "name_en": "H. truncata 'Platina Congesta'",
+        "volume": 3,
+        "page": 58
+    },
+    "2753": {
+        "name": "雷帝",
+        "name_en": "H. truncata 'Raitei'",
+        "volume": 3,
+        "page": 58
+    },
+    "2754": {
+        "name": "麗王",
+        "name_en": "H. truncata 'Reiou'",
+        "volume": 3,
+        "page": 58
+    },
+    "2755": {
+        "name": "ロッキーマウンテン",
+        "name_en": "H. truncata 'Rocky Mountain'",
+        "volume": 3,
+        "page": 59
+    },
+    "2756": {
+        "name": "竜神郷",
+        "name_en": "H. truncata 'Ryujingo'",
+        "volume": 3,
+        "page": 59
+    },
+    "2757": {
+        "name": "竜虎",
+        "name_en": "H. truncata 'Ryuko'",
+        "volume": 3,
+        "page": 59
+    },
+    "2758": {
+        "name": "流麗",
+        "name_en": "H. truncata 'Ryurei'",
+        "volume": 3,
+        "page": 59
+    },
+    "2759": {
+        "name": "酒井スーパーモンスト",
+        "name_en": "H. truncata 'Sakai Super Monst'",
+        "volume": 3,
+        "page": 59
+    },
+    "2760": {
+        "name": "サルマン",
+        "name_en": "H. truncata 'Saruman'",
+        "volume": 3,
+        "page": 59
+    },
+    "2761": {
+        "name": "笹曽根",
+        "name_en": "H. truncata 'Sasasone'",
+        "volume": 3,
+        "page": 59
+    },
+    "2762": {
+        "name": "シースルー",
+        "name_en": "H. truncata 'See-through",
+        "volume": 3,
+        "page": 59
+    },
+    "2763": {
+        "name": "青竜ギザ",
+        "name_en": "H. truncata 'Seiryu Giza'",
+        "volume": 3,
+        "page": 59
+    },
+    "2764": {
+        "name": "積乱雲",
+        "name_en": "H. truncata 'Sekiran-un'",
+        "volume": 3,
+        "page": 60
+    },
+    "2765": {
+        "name": "石水",
+        "name_en": "H. truncata 'Sekisui'",
+        "volume": 3,
+        "page": 60
+    },
+    "2766": {
+        "name": "写楽一家",
+        "name_en": "H. truncata 'Syaraku-Ikka'",
+        "volume": 3,
+        "page": 60
+    },
+    "2767": {
+        "name": "枝垂雪",
+        "name_en": "H. truncata 'Shidareyuki'",
+        "volume": 3,
+        "page": 60
+    },
+    "2768": {
+        "name": "霜月",
+        "name_en": "H. truncata 'Shimotsuki'",
+        "volume": 3,
+        "page": 60
+    },
+    "2769": {
+        "name": "白雪姫物語",
+        "name_en": "H. truncata 'Shirayukihime'",
+        "volume": 3,
+        "page": 60
+    },
+    "2770": {
+        "name": "白豚",
+        "name_en": "H. truncata 'Shirobuta'",
+        "volume": 3,
+        "page": 60
+    },
+    "2771": {
+        "name": "白鳳凰",
+        "name_en": "H. truncata 'Shirohouou'",
+        "volume": 3,
+        "page": 60
+    },
+    "2772": {
+        "name": "白影",
+        "name_en": "H. truncata 'Shirokage'",
+        "volume": 3,
+        "page": 60
+    },
+    "2773": {
+        "name": "城崎",
+        "name_en": "H. truncata 'Shirosaki'",
+        "volume": 3,
+        "page": 61
+    },
+    "2774": {
+        "name": "四川翡翠",
+        "name_en": "H. truncata 'Shisen-Hisui'",
+        "volume": 3,
+        "page": 61
+    },
+    "2775": {
+        "name": "獅子頭",
+        "name_en": "H. truncata 'Shishigashira",
+        "volume": 3,
+        "page": 61
+    },
+    "2776": {
+        "name": "獅子舞",
+        "name_en": "H. truncata 'Shishimai'",
+        "volume": 3,
+        "page": 61
+    },
+    "2777": {
+        "name": "スノードリーム",
+        "name_en": "H. truncata 'Snow Dream'",
+        "volume": 3,
+        "page": 61
+    },
+    "2778": {
+        "name": "スターマイン",
+        "name_en": "H. truncata 'Star Main'",
+        "volume": 3,
+        "page": 61
+    },
+    "2779": {
+        "name": "水神宮",
+        "name_en": "H. truncata 'Suijinguu'",
+        "volume": 3,
+        "page": 61
+    },
+    "2780": {
+        "name": "翠明",
+        "name_en": "H. truncata 'Suime,",
+        "volume": 3,
+        "page": 61
+    },
+    "2781": {
+        "name": "竹丸",
+        "name_en": "H. truncata 'Takemaru'",
+        "volume": 3,
+        "page": 61
+    },
+    "2782": {
+        "name": "玉徳",
+        "name_en": "H. truncata 'Tamatoku'",
+        "volume": 3,
+        "page": 62
+    },
+    "2783": {
+        "name": "天魔",
+        "name_en": "H. truncata 'Tenma'",
+        "volume": 3,
+        "page": 62
+    },
+    "2784": {
+        "name": "天心",
+        "name_en": "H. truncata 'Tenshin'",
+        "volume": 3,
+        "page": 62
+    },
+    "2785": {
+        "name": "天使の羽根",
+        "name_en": "H. truncata 'Tenshi-no-Hane'",
+        "volume": 3,
+        "page": 62
+    },
+    "2786": {
+        "name": "ティアラ",
+        "name_en": "H. truncata 'Tiara'",
+        "volume": 3,
+        "page": 62
+    },
+    "2787": {
+        "name": "つぼみ",
+        "name_en": "H. truncata 'Tsubomi'",
+        "volume": 3,
+        "page": 62
+    },
+    "2788": {
+        "name": "塚原写楽",
+        "name_en": "H. truncata 'Tsukahara Sharaku'",
+        "volume": 3,
+        "page": 62
+    },
+    "2789": {
+        "name": "月読",
+        "name_en": "H. truncata 'Tsukuyomi",
+        "volume": 3,
+        "page": 62
+    },
+    "2790": {
+        "name": "露翠",
+        "name_en": "H. truncata 'Tsuyumidon",
+        "volume": 3,
+        "page": 62
+    },
+    "2791": {
+        "name": "浮島",
+        "name_en": "H. truncata 'Ukishima'",
+        "volume": 3,
+        "page": 63
+    },
+    "2792": {
+        "name": "梅山No.2",
+        "name_en": "H. truncata 'Umeyama No.2'",
+        "volume": 3,
+        "page": 63
+    },
+    "2793": {
+        "name": "梅山No.9",
+        "name_en": "H. truncata 'Umeyama No.9'",
+        "volume": 3,
+        "page": 63
+    },
+    "2794": {
+        "name": "海原",
+        "name_en": "H. truncata 'Unabara'",
+        "volume": 3,
+        "page": 63
+    },
+    "2795": {
+        "name": "鱗雲",
+        "name_en": "H. truncata 'Urokogumo'",
+        "volume": 3,
+        "page": 63
+    },
+    "2796": {
+        "name": "雲海",
+        "name_en": "H. truncata 'Unkai'",
+        "volume": 3,
+        "page": 63
+    },
+    "2797": {
+        "name": "若松",
+        "name_en": "H. truncata 'Wakamatsu'",
+        "volume": 3,
+        "page": 63
+    },
+    "2798": {
+        "name": "楊貴妃",
+        "name_en": "H. truncata 'Youkihi'",
+        "volume": 3,
+        "page": 63
+    },
+    "2799": {
+        "name": "雷獅子",
+        "name_en": "H. truncata 'Yukijishi'",
+        "volume": 3,
+        "page": 63
+    },
+    "2800": {
+        "name": "雪豹",
+        "name_en": "H. truncata 'Yukihyou",
+        "volume": 3,
+        "page": 64
+    },
+    "2801": {
+        "name": "雪の大陸",
+        "name_en": "H. truncata 'Yuki-no-Tairiku'",
+        "volume": 3,
+        "page": 64
+    },
+    "2802": {
+        "name": "雪虎",
+        "name_en": "H. truncata 'Yukitora",
+        "volume": 3,
+        "page": 64
+    },
+    "2803": {
+        "name": "夢橋",
+        "name_en": "H. truncata 'Yumehash,",
+        "volume": 3,
+        "page": 64
+    },
+    "2804": {
+        "name": "夢写楽",
+        "name_en": "H. truncata 'Yumesyaraku'",
+        "volume": 3,
+        "page": 64
+    },
+    "2805": {
+        "name": "雪真珠",
+        "name_en": "H. truncata 'Yukishinju'",
+        "volume": 3,
+        "page": 64
+    },
+    "2806": {
+        "name": "雪山嵐",
+        "name_en": "H. truncata 'Yukiyamaarashi'",
+        "volume": 3,
+        "page": 64
+    },
+    "2807": {
+        "name": "ゼフィルス",
+        "name_en": "H. maughanii 'Zephrs'",
+        "volume": 3,
+        "page": 64
+    },
+    "2808": {
+        "name": "瑞竜",
+        "name_en": "H. maughanii 'Zuiryu'",
+        "volume": 3,
+        "page": 64
+    },
+    "2809": {
+        "name": "阿芳宮",
+        "name_en": "H. 'Ahoukyu'",
+        "volume": 3,
+        "page": 65
+    },
+    "2810": {
+        "name": "茜",
+        "name_en": "H. 'Akane'",
+        "volume": 3,
+        "page": 65
+    },
+    "2811": {
+        "name": "赤水晶",
+        "name_en": "H. 'Akasuisyo'",
+        "volume": 3,
+        "page": 65
+    },
+    "2812": {
+        "name": "悪夢",
+        "name_en": "H. 'Akumu'",
+        "volume": 3,
+        "page": 65
+    },
+    "2813": {
+        "name": "悪路",
+        "name_en": "H. 'Akuro'",
+        "volume": 3,
+        "page": 65
+    },
+    "2814": {
+        "name": "アルミナ",
+        "name_en": "H. 'Aluminum Star'",
+        "volume": 3,
+        "page": 65
+    },
+    "2815": {
+        "name": "天城",
+        "name_en": "H. 'Amagi'",
+        "volume": 3,
+        "page": 65
+    },
+    "2816": {
+        "name": "天の川",
+        "name_en": "H. 'Amanogawa'",
+        "volume": 3,
+        "page": 65
+    },
+    "2817": {
+        "name": "エンジェル",
+        "name_en": "H. 'Angel'",
+        "volume": 3,
+        "page": 65
+    },
+    "2818": {
+        "name": "暗黒大魔神",
+        "name_en": "H. 'Ankoku Oaimajin'",
+        "volume": 3,
+        "page": 66
+    },
+    "2819": {
+        "name": "暗黒の淵",
+        "name_en": "H. 'Ankoku-no-Fuchi'",
+        "volume": 3,
+        "page": 66
+    },
+    "2820": {
+        "name": "暗黒玉",
+        "name_en": "H. 'Ankokugyoku'",
+        "volume": 3,
+        "page": 66
+    },
+    "2821": {
+        "name": "アンユートピア",
+        "name_en": "H. 'An Utopia'",
+        "volume": 3,
+        "page": 66
+    },
+    "2822": {
+        "name": "青葵",
+        "name_en": "H. 'Aoaoi'",
+        "volume": 3,
+        "page": 66
+    },
+    "2823": {
+        "name": "青円空",
+        "name_en": "H. 'Aoenku'",
+        "volume": 3,
+        "page": 66
+    },
+    "2824": {
+        "name": "葵",
+        "name_en": "H. 'Aoi'",
+        "volume": 3,
+        "page": 66
+    },
+    "2825": {
+        "name": "葵富士",
+        "name_en": "H. 'Aoifuji'",
+        "volume": 3,
+        "page": 66
+    },
+    "2826": {
+        "name": "葵祭",
+        "name_en": "H. 'Aoimatsuri'",
+        "volume": 3,
+        "page": 66
+    },
+    "2827": {
+        "name": "青まりも",
+        "name_en": "H. 'Aomarimo'",
+        "volume": 3,
+        "page": 66
+    },
+    "2828": {
+        "name": "アポロ",
+        "name_en": "H. 'Apollo'",
+        "volume": 3,
+        "page": 66
+    },
+    "2829": {
+        "name": "アクアマリン",
+        "name_en": "H. 'Aquamarin'",
+        "volume": 3,
+        "page": 66
+    },
+    "2830": {
+        "name": "アルゴン",
+        "name_en": "H. 'Argon'",
+        "volume": 3,
+        "page": 66
+    },
+    "2831": {
+        "name": "アリエス",
+        "name_en": "H. 'Ariesu'",
+        "volume": 3,
+        "page": 66
+    },
+    "2832": {
+        "name": "アルマジロ",
+        "name_en": "H. 'Armadillo'",
+        "volume": 3,
+        "page": 66
+    },
+    "2833": {
+        "name": "アルカディア",
+        "name_en": "H. 'Arukadia'",
+        "volume": 3,
+        "page": 66
+    },
+    "2834": {
+        "name": "朝烏",
+        "name_en": "H. 'Asakarasu'",
+        "volume": 3,
+        "page": 66
+    },
+    "2835": {
+        "name": "阿修羅",
+        "name_en": "H. 'Ashura'",
+        "volume": 3,
+        "page": 66
+    },
+    "2836": {
+        "name": "彩華",
+        "name_en": "H. 'Ayaka'",
+        "volume": 3,
+        "page": 66
+    },
+    "2837": {
+        "name": "バックス",
+        "name_en": "H. 'Backs'",
+        "volume": 3,
+        "page": 66
+    },
+    "2838": {
+        "name": "バグスグルーブ",
+        "name_en": "H. 'Bag's Groove'",
+        "volume": 3,
+        "page": 66
+    },
+    "2839": {
+        "name": "ボールボーイ",
+        "name_en": "H. 'Ball boy'",
+        "volume": 3,
+        "page": 66
+    },
+    "2840": {
+        "name": "バロン",
+        "name_en": "H. 'Baron'",
+        "volume": 3,
+        "page": 66
+    },
+    "2841": {
+        "name": "紅牡丹",
+        "name_en": "H. 'Benibotan'",
+        "volume": 3,
+        "page": 66
+    },
+    "2842": {
+        "name": "紅風車",
+        "name_en": "H. 'Benifuusha'",
+        "volume": 3,
+        "page": 66
+    },
+    "2843": {
+        "name": "紅霞",
+        "name_en": "H. 'Benigasumi'",
+        "volume": 3,
+        "page": 66
+    },
+    "2844": {
+        "name": "紅折鶴",
+        "name_en": "H. 'Beniorizuru'",
+        "volume": 3,
+        "page": 66
+    },
+    "2845": {
+        "name": "弁天",
+        "name_en": "H. 'Benten'",
+        "volume": 3,
+        "page": 66
+    },
+    "2846": {
+        "name": "ビッグブラック",
+        "name_en": "H. 'Big & Black'",
+        "volume": 3,
+        "page": 66
+    },
+    "2847": {
+        "name": "ブラックフォックス",
+        "name_en": "H. 'Black Fox'",
+        "volume": 3,
+        "page": 66
+    },
+    "2848": {
+        "name": "ブラックキング",
+        "name_en": "H. 'Black King'",
+        "volume": 3,
+        "page": 66
+    },
+    "2849": {
+        "name": "ブラックオブッーサ（ビッグ）",
+        "name_en": "H. 'Black Obtusa'(Big)",
+        "volume": 3,
+        "page": 66
+    },
+    "2850": {
+        "name": "ブリーチ",
+        "name_en": "H. 'Bleach'",
+        "volume": 3,
+        "page": 66
+    },
+    "2851": {
+        "name": "ブルーエンペラー",
+        "name_en": "H. 'Blue Emperor'",
+        "volume": 3,
+        "page": 66
+    },
+    "2852": {
+        "name": "ブルーライト",
+        "name_en": "H. 'Blue Light'",
+        "volume": 3,
+        "page": 66
+    },
+    "2853": {
+        "name": "ブルースタイネリー",
+        "name_en": "H. 'Blue Stayneri'",
+        "volume": 3,
+        "page": 66
+    },
+    "2854": {
+        "name": "ブルーZ",
+        "name_en": "H. 'Blue Z'",
+        "volume": 3,
+        "page": 70
+    },
+    "2855": {
+        "name": "ブードウー",
+        "name_en": "H. 'Boodoo'",
+        "volume": 3,
+        "page": 70
+    },
+    "2856": {
+        "name": "ブーメラン",
+        "name_en": "H. 'Boomerang'",
+        "volume": 3,
+        "page": 70
+    },
+    "2857": {
+        "name": "ブラウンボール",
+        "name_en": "H. 'Brown Ball'",
+        "volume": 3,
+        "page": 70
+    },
+    "2858": {
+        "name": "ブラウニー",
+        "name_en": "H. 'Brawnie'",
+        "volume": 3,
+        "page": 70
+    },
+    "2859": {
+        "name": "葡萄棚",
+        "name_en": "H. 'Budoudana'",
+        "volume": 3,
+        "page": 70
+    },
+    "2860": {
+        "name": "カフェオーレ",
+        "name_en": "H. 'Cafe-au-lait'",
+        "volume": 3,
+        "page": 70
+    },
+    "2861": {
+        "name": "カメレオン",
+        "name_en": "H. 'Cameleon'",
+        "volume": 3,
+        "page": 70
+    },
+    "2862": {
+        "name": "キャンディボール",
+        "name_en": "H. 'Candy Ball'",
+        "volume": 3,
+        "page": 70
+    },
+    "2863": {
+        "name": "カシオペア",
+        "name_en": "H. 'Casiopea'",
+        "volume": 3,
+        "page": 71
+    },
+    "2864": {
+        "name": "チョコバー",
+        "name_en": "H. 'Chocobar'",
+        "volume": 3,
+        "page": 71
+    },
+    "2865": {
+        "name": "ショコラスイーツココア",
+        "name_en": "H. 'Chocolasweet Cocoa'",
+        "volume": 3,
+        "page": 71
+    },
+    "2866": {
+        "name": "チョコラスイーツ抹茶",
+        "name_en": "H. 'Chocolasweet Matcha'",
+        "volume": 3,
+        "page": 71
+    },
+    "2867": {
+        "name": "チョコスプリング",
+        "name_en": "H. 'Choco Spring'",
+        "volume": 3,
+        "page": 71
+    },
+    "2868": {
+        "name": "チョコ水晶",
+        "name_en": "H. 'Choco Suisyo'",
+        "volume": 3,
+        "page": 71
+    },
+    "2869": {
+        "name": "地和",
+        "name_en": "H. 'Chiihou'",
+        "volume": 3,
+        "page": 71
+    },
+    "2870": {
+        "name": "超大型グリーンフォーム",
+        "name_en": "H. 'Chouoogata Greenform'",
+        "volume": 3,
+        "page": 71
+    },
+    "2871": {
+        "name": "クリスティB",
+        "name_en": "H. 'Christie B'",
+        "volume": 3,
+        "page": 71
+    },
+    "2872": {
+        "name": "クレオパトラ",
+        "name_en": "H. 'Cleopatra'",
+        "volume": 3,
+        "page": 72
+    },
+    "2873": {
+        "name": "クールミラーボール",
+        "name_en": "H. 'Cool Mirrorball'",
+        "volume": 3,
+        "page": 72
+    },
+    "2874": {
+        "name": "コットンテイル",
+        "name_en": "H. 'Cotton Tail'",
+        "volume": 3,
+        "page": 72
+    },
+    "2875": {
+        "name": "キューピット",
+        "name_en": "H. 'Cupid'",
+        "volume": 3,
+        "page": 72
+    },
+    "2876": {
+        "name": "ダルマ蟹",
+        "name_en": "H. 'Daruma Gani'",
+        "volume": 3,
+        "page": 72
+    },
+    "2877": {
+        "name": "ダイアナ",
+        "name_en": "H. 'Diana'",
+        "volume": 3,
+        "page": 72
+    },
+    "2878": {
+        "name": "道化師",
+        "name_en": "H. 'pierrot'",
+        "volume": 3,
+        "page": 72
+    },
+    "2879": {
+        "name": "ドリーム",
+        "name_en": "H. 'Dream'",
+        "volume": 3,
+        "page": 72
+    },
+    "2880": {
+        "name": "ドロップ",
+        "name_en": "H. 'Drop'",
+        "volume": 3,
+        "page": 72
+    },
+    "2881": {
+        "name": "絵日傘",
+        "name_en": "H. 'Ehigasa'",
+        "volume": 3,
+        "page": 73
+    },
+    "2882": {
+        "name": "永楽",
+        "name_en": "H. 'Eiraku'",
+        "volume": 3,
+        "page": 73
+    },
+    "2883": {
+        "name": "エメラルドスター",
+        "name_en": "H. 'Emerald Star'",
+        "volume": 3,
+        "page": 73
+    },
+    "2884": {
+        "name": "フライングホーム",
+        "name_en": "H. 'Frying Home'",
+        "volume": 3,
+        "page": 73
+    },
+    "2885": {
+        "name": "不肖の子Ⅱ",
+        "name_en": "H. 'Fusho-no-ko'Ⅱ",
+        "volume": 3,
+        "page": 73
+    },
+    "2886": {
+        "name": "富貴",
+        "name_en": "H. 'Fuuki'",
+        "volume": 3,
+        "page": 73
+    },
+    "2887": {
+        "name": "ガラス玉",
+        "name_en": "H. 'Garasudama'",
+        "volume": 3,
+        "page": 73
+    },
+    "2888": {
+        "name": "ジェニフィック",
+        "name_en": "H. 'Genifique'",
+        "volume": 3,
+        "page": 73
+    },
+    "2889": {
+        "name": "玄海",
+        "name_en": "H. 'Genkai'",
+        "volume": 3,
+        "page": 73
+    },
+    "2890": {
+        "name": "ギギ",
+        "name_en": "H. 'Gigi'",
+        "volume": 3,
+        "page": 74
+    },
+    "2891": {
+        "name": "銀蝶貝",
+        "name_en": "H. 'Ginchogai'",
+        "volume": 3,
+        "page": 74
+    },
+    "2892": {
+        "name": "銀絵巻A",
+        "name_en": "H. 'Ginemaki A'",
+        "volume": 3,
+        "page": 74
+    },
+    "2893": {
+        "name": "銀河牡丹",
+        "name_en": "H. 'Ginbotan'",
+        "volume": 3,
+        "page": 74
+    },
+    "2894": {
+        "name": "銀河鉄道スペシャル",
+        "name_en": "H. 'Gingatetsudo Special'",
+        "volume": 3,
+        "page": 74
+    },
+    "2895": {
+        "name": "銀光",
+        "name_en": "H. 'Ginkou'",
+        "volume": 3,
+        "page": 74
+    },
+    "2896": {
+        "name": "銀毛氈",
+        "name_en": "H. 'Ginmousen'",
+        "volume": 3,
+        "page": 74
+    },
+    "2897": {
+        "name": "銀紫No.1",
+        "name_en": "H. 'Ginmurasaki No. 1'",
+        "volume": 3,
+        "page": 74
+    },
+    "2898": {
+        "name": "銀翁",
+        "name_en": "H. 'Ginou'",
+        "volume": 3,
+        "page": 74
+    },
+    "2899": {
+        "name": "銀鱗ゼブラ",
+        "name_en": "H. 'Ginrin Zebra'",
+        "volume": 3,
+        "page": 75
+    },
+    "2900": {
+        "name": "銀狼",
+        "name_en": "H. 'Ginrou'",
+        "volume": 3,
+        "page": 75
+    },
+    "2901": {
+        "name": "銀竜",
+        "name_en": "H. 'Ginryu'",
+        "volume": 3,
+        "page": 75
+    },
+    "2902": {
+        "name": "銀彩",
+        "name_en": "H. 'Ginsai'",
+        "volume": 3,
+        "page": 75
+    },
+    "2903": {
+        "name": "ジゼル",
+        "name_en": "H. 'Giselle'",
+        "volume": 3,
+        "page": 75
+    },
+    "2904": {
+        "name": "銀仙城",
+        "name_en": "H. 'Ginsenjou'",
+        "volume": 3,
+        "page": 75
+    },
+    "2905": {
+        "name": "銀帝城",
+        "name_en": "H. 'Ginteijyo'",
+        "volume": 3,
+        "page": 75
+    },
+    "2906": {
+        "name": "銀天女",
+        "name_en": "H. 'Gintennyo'",
+        "volume": 3,
+        "page": 75
+    },
+    "2907": {
+        "name": "ゴンドール",
+        "name_en": "H. 'Gondoll'",
+        "volume": 3,
+        "page": 75
+    },
+    "2908": {
+        "name": "グリーンパフ",
+        "name_en": "H. 'Green Puff'",
+        "volume": 3,
+        "page": 76
+    },
+    "2909": {
+        "name": "グリーンシャーク",
+        "name_en": "H. 'Green Shark'",
+        "volume": 3,
+        "page": 76
+    },
+    "2910": {
+        "name": "グリーンボール",
+        "name_en": "H. 'Green Ball'",
+        "volume": 3,
+        "page": 76
+    },
+    "2911": {
+        "name": "ハッケンサック",
+        "name_en": "H. 'Hackensack'",
+        "volume": 3,
+        "page": 76
+    },
+    "2912": {
+        "name": "白馬城",
+        "name_en": "H. 'Hakubajyo'",
+        "volume": 3,
+        "page": 76
+    },
+    "2913": {
+        "name": "白芽城",
+        "name_en": "H. 'Hakugajyo'",
+        "volume": 3,
+        "page": 76
+    },
+    "2914": {
+        "name": "白眼竜",
+        "name_en": "H. 'Hakuganryu'",
+        "volume": 3,
+        "page": 76
+    },
+    "2915": {
+        "name": "白銀絵巻c",
+        "name_en": "H. 'Hakugin Emaki'",
+        "volume": 3,
+        "page": 76
+    },
+    "2916": {
+        "name": "白銀レディ",
+        "name_en": "H. 'Hakugin Lady'",
+        "volume": 3,
+        "page": 76
+    },
+    "2917": {
+        "name": "白重城",
+        "name_en": "H. 'Hakujujou'",
+        "volume": 3,
+        "page": 77
+    },
+    "2918": {
+        "name": "白剣の舞",
+        "name_en": "H. 'Hakken-no-Mai'",
+        "volume": 3,
+        "page": 77
+    },
+    "2919": {
+        "name": "白蛇",
+        "name_en": "H. 'Hakuja'",
+        "volume": 3,
+        "page": 77
+    },
+    "2920": {
+        "name": "白路の世界",
+        "name_en": "H. 'Hakuji-no-Sekai'",
+        "volume": 3,
+        "page": 77
+    },
+    "2921": {
+        "name": "白紅梅",
+        "name_en": "H. 'Hakukoubai'",
+        "volume": 3,
+        "page": 77
+    },
+    "2922": {
+        "name": "白玲",
+        "name_en": "H. 'Hakurei'",
+        "volume": 3,
+        "page": 77
+    },
+    "2923": {
+        "name": "白露",
+        "name_en": "H. 'Hakuro'",
+        "volume": 3,
+        "page": 77
+    },
+    "2924": {
+        "name": "白竜珠",
+        "name_en": "H. 'Hakuryuju'",
+        "volume": 3,
+        "page": 77
+    },
+    "2925": {
+        "name": "白竜王",
+        "name_en": "H. 'Hakuryuou'",
+        "volume": 3,
+        "page": 77
+    },
+    "2926": {
+        "name": "白秋殿",
+        "name_en": "H. 'Hakushuden'",
+        "volume": 3,
+        "page": 78
+    },
+    "2927": {
+        "name": "白想",
+        "name_en": "H. 'Hakusou'",
+        "volume": 3,
+        "page": 78
+    },
+    "2928": {
+        "name": "白天山",
+        "name_en": "H. 'Hakutenzan'",
+        "volume": 3,
+        "page": 78
+    },
+    "2929": {
+        "name": "花笠",
+        "name_en": "H. 'Hanagasa'",
+        "volume": 3,
+        "page": 78
+    },
+    "2930": {
+        "name": "花衣",
+        "name_en": "H. 'Hanagoromo'",
+        "volume": 3,
+        "page": 78
+    },
+    "2931": {
+        "name": "花車",
+        "name_en": "H. 'Hanaguruma'",
+        "volume": 3,
+        "page": 78
+    },
+    "2932": {
+        "name": "花いかだ",
+        "name_en": "H. 'Hanaikada'",
+        "volume": 3,
+        "page": 78
+    },
+    "2933": {
+        "name": "花泉",
+        "name_en": "H. 'Hanaizumi'",
+        "volume": 3,
+        "page": 78
+    },
+    "2934": {
+        "name": "ハナミズキ",
+        "name_en": "H. 'Hanamizuki'",
+        "volume": 3,
+        "page": 78
+    },
+    "2935": {
+        "name": "花ミズキ",
+        "name_en": "H. 'Hanamizuki'",
+        "volume": 3,
+        "page": 79
+    },
+    "2936": {
+        "name": "花乙女",
+        "name_en": "H. 'Hanaotome'",
+        "volume": 3,
+        "page": 79
+    },
+    "2937": {
+        "name": "花しぐれ",
+        "name_en": "H. 'Hanashigure'",
+        "volume": 3,
+        "page": 79
+    },
+    "2938": {
+        "name": "花月夜",
+        "name_en": "H. 'Hanatsukiyo'",
+        "volume": 3,
+        "page": 79
+    },
+    "2939": {
+        "name": "花屋敷",
+        "name_en": "H. 'Hanayashiki'",
+        "volume": 3,
+        "page": 79
+    },
+    "2940": {
+        "name": "ハーレイ",
+        "name_en": "H. 'Harley'",
+        "volume": 3,
+        "page": 79
+    },
+    "2941": {
+        "name": "春緑",
+        "name_en": "H. 'Harumidori'",
+        "volume": 3,
+        "page": 79
+    },
+    "2942": {
+        "name": "春よもぎ",
+        "name_en": "H. 'Haruyomogi'",
+        "volume": 3,
+        "page": 79
+    },
+    "2943": {
+        "name": "春夢殿",
+        "name_en": "H. 'Haruyumeden'",
+        "volume": 3,
+        "page": 79
+    },
+    "2944": {
+        "name": "初恋",
+        "name_en": "H. 'Hatsukoi'",
+        "volume": 3,
+        "page": 80
+    },
+    "2945": {
+        "name": "初音",
+        "name_en": "H. 'Hatsune'",
+        "volume": 3,
+        "page": 80
+    },
+    "2946": {
+        "name": "初瀬",
+        "name_en": "H. 'Hatsuse'",
+        "volume": 3,
+        "page": 80
+    },
+    "2947": {
+        "name": "ヘルキャット",
+        "name_en": "H. 'Hellcat'",
+        "volume": 3,
+        "page": 80
+    },
+    "2948": {
+        "name": "光の妖精",
+        "name_en": "H. 'Hikari-no-Yousei'",
+        "volume": 3,
+        "page": 80
+    },
+    "2949": {
+        "name": "姫葵",
+        "name_en": "H. 'Himeaoi'",
+        "volume": 3,
+        "page": 80
+    },
+    "2950": {
+        "name": "姫白帝",
+        "name_en": "H. 'Himehakutei'",
+        "volume": 3,
+        "page": 80
+    },
+    "2951": {
+        "name": "姫園",
+        "name_en": "H. 'Himezono'",
+        "volume": 3,
+        "page": 80
+    },
+    "2952": {
+        "name": "雛桜",
+        "name_en": "H. 'Hinazakura'",
+        "volume": 3,
+        "page": 80
+    },
+    "2953": {
+        "name": "飛龍",
+        "name_en": "H. 'Hiryu'",
+        "volume": 3,
+        "page": 81
+    },
+    "2954": {
+        "name": "北斗七星",
+        "name_en": "H. 'Hokutoshichisei'",
+        "volume": 3,
+        "page": 81
+    },
+    "2955": {
+        "name": "ホープ",
+        "name_en": "H. 'Hope'",
+        "volume": 3,
+        "page": 81
+    },
+    "2956": {
+        "name": "氷銀",
+        "name_en": "H. 'Hyogin'",
+        "volume": 3,
+        "page": 81
+    },
+    "2957": {
+        "name": "インプレッション",
+        "name_en": "H. 'Impressions",
+        "volume": 3,
+        "page": 81
+    },
+    "2958": {
+        "name": "漁火",
+        "name_en": "H. 'Isaribi'",
+        "volume": 3,
+        "page": 81
+    },
+    "2959": {
+        "name": "ジェム樹",
+        "name_en": "H. 'Jemuju'",
+        "volume": 3,
+        "page": 81
+    },
+    "2960": {
+        "name": "ジュピトロ",
+        "name_en": "H. 'Jupitoro'",
+        "volume": 3,
+        "page": 81
+    },
+    "2961": {
+        "name": "鏡里",
+        "name_en": "H. 'Kagamisato'",
+        "volume": 3,
+        "page": 81
+    },
+    "2962": {
+        "name": "影虎",
+        "name_en": "H. 'Kagetora'",
+        "volume": 3,
+        "page": 82
+    },
+    "2963": {
+        "name": "神無月",
+        "name_en": "H. 'Kannazuki'",
+        "volume": 3,
+        "page": 82
+    },
+    "2964": {
+        "name": "唐草牡丹",
+        "name_en": "H. 'Karakusa Botan'",
+        "volume": 3,
+        "page": 82
+    },
+    "2965": {
+        "name": "烏天狗",
+        "name_en": "H. 'Karasutengu'",
+        "volume": 3,
+        "page": 82
+    },
+    "2966": {
+        "name": "唐獅子",
+        "name_en": "H. 'Karajishi'",
+        "volume": 3,
+        "page": 82
+    },
+    "2967": {
+        "name": "枯れ葉",
+        "name_en": "H. 'Kareha'",
+        "volume": 3,
+        "page": 82
+    },
+    "2968": {
+        "name": "霞桜",
+        "name_en": "H. 'Kasumizakura'",
+        "volume": 3,
+        "page": 82
+    },
+    "2969": {
+        "name": "蛍雪",
+        "name_en": "H. 'Keisetsu'",
+        "volume": 3,
+        "page": 82
+    },
+    "2970": {
+        "name": "慶雲",
+        "name_en": "H. 'Keiun'",
+        "volume": 3,
+        "page": 82
+    },
+    "2971": {
+        "name": "帰蝶",
+        "name_en": "H. 'Kichou'",
+        "volume": 3,
+        "page": 83
+    },
+    "2972": {
+        "name": "耀鳳",
+        "name_en": "H. 'Kihou'",
+        "volume": 3,
+        "page": 83
+    },
+    "2973": {
+        "name": "金冠",
+        "name_en": "H. 'Kinkan'",
+        "volume": 3,
+        "page": 83
+    },
+    "2974": {
+        "name": "霧島",
+        "name_en": "H. 'Kirishima'",
+        "volume": 3,
+        "page": 83
+    },
+    "2975": {
+        "name": "騎士団",
+        "name_en": "H. 'Kishidan'",
+        "volume": 3,
+        "page": 83
+    },
+    "2976": {
+        "name": "清姫",
+        "name_en": "H. 'Kiyohime'",
+        "volume": 3,
+        "page": 83
+    },
+    "2977": {
+        "name": "清宮",
+        "name_en": "H. 'Kiyomiya'",
+        "volume": 3,
+        "page": 83
+    },
+    "2978": {
+        "name": "木津富士",
+        "name_en": "H. 'Kizufuji'",
+        "volume": 3,
+        "page": 83
+    },
+    "2979": {
+        "name": "国府",
+        "name_en": "H. 'Kokufu'",
+        "volume": 3,
+        "page": 83
+    },
+    "2980": {
+        "name": "黒寿丸",
+        "name_en": "H. 'Kokujumaru'",
+        "volume": 3,
+        "page": 84
+    },
+    "2981": {
+        "name": "湖兎",
+        "name_en": "H. 'Kato'",
+        "volume": 3,
+        "page": 84
+    },
+    "2982": {
+        "name": "光悦",
+        "name_en": "H. 'Kouetsu'",
+        "volume": 3,
+        "page": 84
+    },
+    "2983": {
+        "name": "煙陽",
+        "name_en": "H. 'Kouyou'",
+        "volume": 3,
+        "page": 84
+    },
+    "2984": {
+        "name": "暗闇の華",
+        "name_en": "H. 'Kurayami-no-Hana",
+        "volume": 3,
+        "page": 84
+    },
+    "2985": {
+        "name": "呉竹",
+        "name_en": "H. 'Kuretake'",
+        "volume": 3,
+        "page": 84
+    },
+    "2986": {
+        "name": "黒姫の舞",
+        "name_en": "H. 'Kurohime-no-Mai'",
+        "volume": 3,
+        "page": 84
+    },
+    "2987": {
+        "name": "黒い風影",
+        "name_en": "H. 'Kuroi Kazakage'",
+        "volume": 3,
+        "page": 84
+    },
+    "2988": {
+        "name": "黒岩石",
+        "name_en": "H. 'Kuroganseki'",
+        "volume": 3,
+        "page": 84
+    },
+    "2989": {
+        "name": "黒い霧",
+        "name_en": "H. 'Kuroi Kiri'",
+        "volume": 3,
+        "page": 85
+    },
+    "2990": {
+        "name": "黒ピカダルマ",
+        "name_en": "H. 'Kuropika Daruma'",
+        "volume": 3,
+        "page": 85
+    },
+    "2991": {
+        "name": "黒ベヌスタ",
+        "name_en": "H. 'Kuroi Venusta'",
+        "volume": 3,
+        "page": 85
+    },
+    "2992": {
+        "name": "巨峰",
+        "name_en": "H. 'Kyohou'",
+        "volume": 3,
+        "page": 85
+    },
+    "2993": {
+        "name": "曲春歌",
+        "name_en": "H. 'Kyokushunka'",
+        "volume": 3,
+        "page": 85
+    },
+    "2994": {
+        "name": "京桜",
+        "name_en": "H. 'Kyosakura'",
+        "volume": 3,
+        "page": 85
+    },
+    "2995": {
+        "name": "京ウルフ",
+        "name_en": "H. 'Kyouwolf'",
+        "volume": 3,
+        "page": 85
+    },
+    "2996": {
+        "name": "ラベンダー",
+        "name_en": "H. 'Lavender'",
+        "volume": 3,
+        "page": 85
+    },
+    "2997": {
+        "name": "ロンバートスター",
+        "name_en": "H. 'Lonbart Star'",
+        "volume": 3,
+        "page": 85
+    },
+    "2998": {
+        "name": "舞乙女",
+        "name_en": "H. 'Maiotome'",
+        "volume": 3,
+        "page": 86
+    },
+    "2999": {
+        "name": "魔界竜",
+        "name_en": "H. 'Makairyu'",
+        "volume": 3,
+        "page": 86
+    },
+    "3000": {
+        "name": "魔子",
+        "name_en": "H. 'Mako'",
+        "volume": 3,
+        "page": 86
+    },
+    "3001": {
+        "name": "魔境",
+        "name_en": "H. 'Makyo'",
+        "volume": 3,
+        "page": 86
+    },
+    "3002": {
+        "name": "マリモ",
+        "name_en": "H. 'Marimo'",
+        "volume": 3,
+        "page": 86
+    },
+    "3003": {
+        "name": "魔性",
+        "name_en": "H. 'Masyo'",
+        "volume": 3,
+        "page": 86
+    },
+    "3004": {
+        "name": "松岡色変わり",
+        "name_en": "H. 'Matsuoka Irogawari'",
+        "volume": 3,
+        "page": 86
+    },
+    "3005": {
+        "name": "明鳥",
+        "name_en": "H. 'Meichou'",
+        "volume": 3,
+        "page": 86
+    },
+    "3006": {
+        "name": "メロデカウルフ",
+        "name_en": "H. 'Melodica Wolf'",
+        "volume": 3,
+        "page": 86
+    },
+    "3007": {
+        "name": "メリーゴーランド",
+        "name_en": "H. 'Merry-Go-Round'",
+        "volume": 3,
+        "page": 87
+    },
+    "3008": {
+        "name": "緑ヒトデ",
+        "name_en": "H. 'Midori Hitode'",
+        "volume": 3,
+        "page": 87
+    },
+    "3009": {
+        "name": "緑の白王",
+        "name_en": "H. 'Midori-no-Hakuou",
+        "volume": 3,
+        "page": 87
+    },
+    "3010": {
+        "name": "緑の炎",
+        "name_en": "H. 'Midori-no-Honoo",
+        "volume": 3,
+        "page": 87
+    },
+    "3011": {
+        "name": "緑のサンゴ",
+        "name_en": "H. 'Midori-no-Sango",
+        "volume": 3,
+        "page": 87
+    },
+    "3012": {
+        "name": "三河鳥羽",
+        "name_en": "H. 'Mikawa Toba'",
+        "volume": 3,
+        "page": 87
+    },
+    "3013": {
+        "name": "ミニスカ",
+        "name_en": "H. 'Miniska'",
+        "volume": 3,
+        "page": 87
+    },
+    "3014": {
+        "name": "未来",
+        "name_en": "H. 'Mirai'",
+        "volume": 3,
+        "page": 87
+    },
+    "3015": {
+        "name": "ミスアン",
+        "name_en": "H. 'Miss Ann'",
+        "volume": 3,
+        "page": 87
+    },
+    "3016": {
+        "name": "都星",
+        "name_en": "H. 'Miyakoboshi'",
+        "volume": 3,
+        "page": 88
+    },
+    "3017": {
+        "name": "桃園",
+        "name_en": "H. 'Momozono'",
+        "volume": 3,
+        "page": 88
+    },
+    "3018": {
+        "name": "ムック",
+        "name_en": "H. 'Mook'",
+        "volume": 3,
+        "page": 88
+    },
+    "3019": {
+        "name": "ムーン＆サンド",
+        "name_en": "H. 'Moon & Sand'",
+        "volume": 3,
+        "page": 88
+    },
+    "3020": {
+        "name": "ムーンライズ",
+        "name_en": "H. 'Moon Rise'",
+        "volume": 3,
+        "page": 88
+    },
+    "3021": {
+        "name": "ムーンシャドウ",
+        "name_en": "H. 'Moon Shadow'",
+        "volume": 3,
+        "page": 88
+    },
+    "3022": {
+        "name": "森の妖精",
+        "name_en": "H. 'Mori-no-Yosei,",
+        "volume": 3,
+        "page": 88
+    },
+    "3023": {
+        "name": "望月",
+        "name_en": "H. 'Mochiduki'",
+        "volume": 3,
+        "page": 88
+    },
+    "3024": {
+        "name": "無紋チョコ",
+        "name_en": "H. 'Mumonchoko'",
+        "volume": 3,
+        "page": 88
+    },
+    "3025": {
+        "name": "紫コンプト",
+        "name_en": "H. 'Murasaki Compto'",
+        "volume": 3,
+        "page": 89
+    },
+    "3026": {
+        "name": "紫姫玉",
+        "name_en": "H. 'Murasaki Himedama'",
+        "volume": 3,
+        "page": 89
+    },
+    "3027": {
+        "name": "紫の水面",
+        "name_en": "H. 'Murasaki-no-Minamo'",
+        "volume": 3,
+        "page": 89
+    },
+    "3028": {
+        "name": "紫の海",
+        "name_en": "H. 'Murasaki-no-Umi,",
+        "volume": 3,
+        "page": 89
+    },
+    "3029": {
+        "name": "紫五月雨",
+        "name_en": "H. 'Murasaki Samidare'",
+        "volume": 3,
+        "page": 89
+    },
+    "3030": {
+        "name": "紫太陽",
+        "name_en": "H. 'Murasaki Taiyo'",
+        "volume": 3,
+        "page": 89
+    },
+    "3031": {
+        "name": "武蔵萌",
+        "name_en": "H. 'Musashi Moe'",
+        "volume": 3,
+        "page": 89
+    },
+    "3032": {
+        "name": "マイアイディアル",
+        "name_en": "H. 'My Ideal'",
+        "volume": 3,
+        "page": 89
+    },
+    "3033": {
+        "name": "マイシャイニングアワー",
+        "name_en": "H. 'My Shaining Hour'",
+        "volume": 3,
+        "page": 89
+    },
+    "3034": {
+        "name": "蕪象",
+        "name_en": "H. 'Nadezou'",
+        "volume": 3,
+        "page": 90
+    },
+    "3035": {
+        "name": "ナイルの一滴",
+        "name_en": "H. 'Nile-no-ltteki,",
+        "volume": 3,
+        "page": 90
+    },
+    "3036": {
+        "name": "涙雨",
+        "name_en": "H. 'Namidaame'",
+        "volume": 3,
+        "page": 90
+    },
+    "3037": {
+        "name": "奈落の底",
+        "name_en": "H. 'Naraku-no-Soko'",
+        "volume": 3,
+        "page": 90
+    },
+    "3038": {
+        "name": "ナイトメア",
+        "name_en": "H. 'Night-Mea'",
+        "volume": 3,
+        "page": 90
+    },
+    "3039": {
+        "name": "ノリ",
+        "name_en": "H. 'Nori'",
+        "volume": 3,
+        "page": 90
+    },
+    "3040": {
+        "name": "沼袋",
+        "name_en": "H. 'Numabukuro'",
+        "volume": 3,
+        "page": 90
+    },
+    "3041": {
+        "name": "オブダルマ",
+        "name_en": "H. 'Ob-Daruma'",
+        "volume": 3,
+        "page": 90
+    },
+    "3042": {
+        "name": "大雫絵巻",
+        "name_en": "H. 'Ohshizuku-Emaki'",
+        "volume": 3,
+        "page": 90
+    },
+    "3043": {
+        "name": "翁の面",
+        "name_en": "H. 'Okina-no-Men'",
+        "volume": 3,
+        "page": 91
+    },
+    "3044": {
+        "name": "鬼祭",
+        "name_en": "H. 'Onimatsuri'",
+        "volume": 3,
+        "page": 91
+    },
+    "3045": {
+        "name": "織笠",
+        "name_en": "H. 'Orikasa'",
+        "volume": 3,
+        "page": 91
+    },
+    "3046": {
+        "name": "乙姫",
+        "name_en": "H. 'Otohime'",
+        "volume": 3,
+        "page": 91
+    },
+    "3047": {
+        "name": "パンドラ",
+        "name_en": "H. 'Pandra'",
+        "volume": 3,
+        "page": 91
+    },
+    "3048": {
+        "name": "パールホワイト",
+        "name_en": "H. 'Pearl White'",
+        "volume": 3,
+        "page": 91
+    },
+    "3049": {
+        "name": "ペパーミント",
+        "name_en": "H. 'Peppermint'",
+        "volume": 3,
+        "page": 91
+    },
+    "3050": {
+        "name": "ポーラスター",
+        "name_en": "H. 'Pollar Star'",
+        "volume": 3,
+        "page": 91
+    },
+    "3051": {
+        "name": "パープルアン",
+        "name_en": "H. 'Purple Ann'",
+        "volume": 3,
+        "page": 91
+    },
+    "3052": {
+        "name": "パープルファン",
+        "name_en": "H. 'Purple Fan'",
+        "volume": 3,
+        "page": 92
+    },
+    "3053": {
+        "name": "パープルジェム",
+        "name_en": "H. 'Purple Gem'",
+        "volume": 3,
+        "page": 92
+    },
+    "3054": {
+        "name": "パープルNo.1",
+        "name_en": "H. 'Purple No.1'",
+        "volume": 3,
+        "page": 92
+    },
+    "3055": {
+        "name": "パープルワンダー",
+        "name_en": "H. 'Purple Wonder'",
+        "volume": 3,
+        "page": 92
+    },
+    "3056": {
+        "name": "パープルゼブラ",
+        "name_en": "H. 'Purple Zebra'",
+        "volume": 3,
+        "page": 92
+    },
+    "3057": {
+        "name": "雷鳥",
+        "name_en": "H. 'Raichou'",
+        "volume": 3,
+        "page": 92
+    },
+    "3058": {
+        "name": "来夢",
+        "name_en": "H. 'Raimu'",
+        "volume": 3,
+        "page": 92
+    },
+    "3059": {
+        "name": "雷雲",
+        "name_en": "H. 'Raiun'",
+        "volume": 3,
+        "page": 92
+    },
+    "3060": {
+        "name": "乱舞",
+        "name_en": "H. 'Ranbu'",
+        "volume": 3,
+        "page": 92
+    },
+    "3061": {
+        "name": "レッドカメレオン",
+        "name_en": "H. 'Red Chamaeleon'",
+        "volume": 3,
+        "page": 93
+    },
+    "3062": {
+        "name": "楼閣",
+        "name_en": "H. 'Roukaku'",
+        "volume": 3,
+        "page": 93
+    },
+    "3063": {
+        "name": "緑賀",
+        "name_en": "H. 'Ryokuga'",
+        "volume": 3,
+        "page": 93
+    },
+    "3064": {
+        "name": "彩春",
+        "name_en": "H. 'Saisyun'",
+        "volume": 3,
+        "page": 93
+    },
+    "3065": {
+        "name": "彩雲",
+        "name_en": "H. 'Saiun'",
+        "volume": 3,
+        "page": 93
+    },
+    "3066": {
+        "name": "桜吹雪",
+        "name_en": "H. 'Sakurafubuki'",
+        "volume": 3,
+        "page": 93
+    },
+    "3067": {
+        "name": "桜姫",
+        "name_en": "H. 'Sakurahime'",
+        "volume": 3,
+        "page": 93
+    },
+    "3068": {
+        "name": "三千世界",
+        "name_en": "H. 'Sanzensekai'",
+        "volume": 3,
+        "page": 93
+    },
+    "3069": {
+        "name": "笹舟",
+        "name_en": "H. 'Sasafune'",
+        "volume": 3,
+        "page": 93
+    },
+    "3070": {
+        "name": "小夜月",
+        "name_en": "H. 'Sayozuki'",
+        "volume": 3,
+        "page": 94
+    },
+    "3071": {
+        "name": "スコーピオンレッド",
+        "name_en": "H. 'Scorpion Red'",
+        "volume": 3,
+        "page": 94
+    },
+    "3072": {
+        "name": "雪中花",
+        "name_en": "H. 'Secchuuka'",
+        "volume": 3,
+        "page": 94
+    },
+    "3073": {
+        "name": "シークレッドラブ",
+        "name_en": "H. 'Secret Love'",
+        "volume": 3,
+        "page": 94
+    },
+    "3074": {
+        "name": "青鳳",
+        "name_en": "H. 'Seihou'",
+        "volume": 3,
+        "page": 94
+    },
+    "3075": {
+        "name": "青磁",
+        "name_en": "H. 'Seiji'",
+        "volume": 3,
+        "page": 94
+    },
+    "3076": {
+        "name": "清涼殿",
+        "name_en": "H. 'Seiryouden'",
+        "volume": 3,
+        "page": 94
+    },
+    "3077": {
+        "name": "千里",
+        "name_en": "H. 'Senri'",
+        "volume": 3,
+        "page": 94
+    },
+    "3078": {
+        "name": "雪月花",
+        "name_en": "H. 'Setsugekka'",
+        "volume": 3,
+        "page": 94
+    },
+    "3079": {
+        "name": "セクシャルグリーン",
+        "name_en": "H. 'Sexcial Green",
+        "volume": 3,
+        "page": 95
+    },
+    "3080": {
+        "name": "鯱",
+        "name_en": "H. 'Shachi'",
+        "volume": 3,
+        "page": 95
+    },
+    "3081": {
+        "name": "七面相No.1",
+        "name_en": "H. 'Shichimenso No.1'",
+        "volume": 3,
+        "page": 95
+    },
+    "3082": {
+        "name": "志貴野",
+        "name_en": "H. 'Shikino'",
+        "volume": 3,
+        "page": 95
+    },
+    "3083": {
+        "name": "紫光星",
+        "name_en": "H. 'Shikousei'",
+        "volume": 3,
+        "page": 95
+    },
+    "3084": {
+        "name": "霜の世界",
+        "name_en": "H. 'Shimo-no-Sekai'",
+        "volume": 3,
+        "page": 95
+    },
+    "3085": {
+        "name": "霜月",
+        "name_en": "H. 'Shimotsuki'",
+        "volume": 3,
+        "page": 95
+    },
+    "3086": {
+        "name": "白子",
+        "name_en": "H. 'Shirako'",
+        "volume": 3,
+        "page": 95
+    },
+    "3087": {
+        "name": "新緑山",
+        "name_en": "H. 'Shinryokuzan'",
+        "volume": 3,
+        "page": 95
+    },
+    "3088": {
+        "name": "新月影",
+        "name_en": "H. 'Shintsukikage'",
+        "volume": 3,
+        "page": 96
+    },
+    "3089": {
+        "name": "白絹絵巻",
+        "name_en": "H. 'Shiraginu Emaki'",
+        "volume": 3,
+        "page": 96
+    },
+    "3090": {
+        "name": "不知火",
+        "name_en": "H. 'Shiranui'",
+        "volume": 3,
+        "page": 96
+    },
+    "3091": {
+        "name": "白鷺",
+        "name_en": "H. 'Shirasagi'",
+        "volume": 3,
+        "page": 96
+    },
+    "3092": {
+        "name": "白百合",
+        "name_en": "H. 'Shirayuri'",
+        "volume": 3,
+        "page": 96
+    },
+    "3093": {
+        "name": "白ぼかし",
+        "name_en": "H. 'Shirobokashi'",
+        "volume": 3,
+        "page": 96
+    },
+    "3094": {
+        "name": "白ふくろう",
+        "name_en": "H. 'Shirofukurou'",
+        "volume": 3,
+        "page": 96
+    },
+    "3095": {
+        "name": "白イソギンチャク",
+        "name_en": "H. 'Shiroisoginnchaku'",
+        "volume": 3,
+        "page": 96
+    },
+    "3096": {
+        "name": "白マジンガー",
+        "name_en": "H. 'Shuro-Majingar'",
+        "volume": 3,
+        "page": 96
+    },
+    "3097": {
+        "name": "白御影",
+        "name_en": "H. 'Shiromikage'",
+        "volume": 3,
+        "page": 97
+    },
+    "3098": {
+        "name": "雫絵巻",
+        "name_en": "H. 'Shizuku-Emaki'",
+        "volume": 3,
+        "page": 97
+    },
+    "3099": {
+        "name": "酒呑童子B",
+        "name_en": "H. 'Shutendouji a'",
+        "volume": 3,
+        "page": 97
+    },
+    "3100": {
+        "name": "スケルトンレース",
+        "name_en": "H. 'Skelton Lace'",
+        "volume": 3,
+        "page": 97
+    },
+    "3101": {
+        "name": "シルクリング",
+        "name_en": "H. 'Silk Ling'",
+        "volume": 3,
+        "page": 97
+    },
+    "3102": {
+        "name": "シルバーベル",
+        "name_en": "H. 'Silver Bell'",
+        "volume": 3,
+        "page": 97
+    },
+    "3103": {
+        "name": "シルバー白夜",
+        "name_en": "H. 'Silver Byakuya'",
+        "volume": 3,
+        "page": 97
+    },
+    "3104": {
+        "name": "シルバーミスト",
+        "name_en": "H. 'Silver Mist'",
+        "volume": 3,
+        "page": 97
+    },
+    "3105": {
+        "name": "スパークリング",
+        "name_en": "H. 'Sparkling'",
+        "volume": 3,
+        "page": 97
+    },
+    "3106": {
+        "name": "スターダスト",
+        "name_en": "H. 'Star Dust'",
+        "volume": 3,
+        "page": 98
+    },
+    "3107": {
+        "name": "スターエメラルド",
+        "name_en": "H. 'Star Emerald'",
+        "volume": 3,
+        "page": 98
+    },
+    "3108": {
+        "name": "シュガーダスト",
+        "name_en": "H. 'Sugar Dust'",
+        "volume": 3,
+        "page": 98
+    },
+    "3109": {
+        "name": "杉の目",
+        "name_en": "H. 'Suginome'",
+        "volume": 3,
+        "page": 98
+    },
+    "3110": {
+        "name": "水晶玉",
+        "name_en": "H. 'Suishoudama'",
+        "volume": 3,
+        "page": 98
+    },
+    "3111": {
+        "name": "翠桃",
+        "name_en": "H. 'Suitou'",
+        "volume": 3,
+        "page": 98
+    },
+    "3112": {
+        "name": "須磨",
+        "name_en": "H. 'Suma'",
+        "volume": 3,
+        "page": 98
+    },
+    "3113": {
+        "name": "墨染",
+        "name_en": "H. 'Sumizome'",
+        "volume": 3,
+        "page": 98
+    },
+    "3114": {
+        "name": "スーパームーラン",
+        "name_en": "H. 'Super Moulin'",
+        "volume": 3,
+        "page": 98
+    },
+    "3115": {
+        "name": "旅の夜風",
+        "name_en": "H. 'Tabi-no-Yokaze'",
+        "volume": 3,
+        "page": 99
+    },
+    "3116": {
+        "name": "玉茜",
+        "name_en": "H. 'Tamaakane'",
+        "volume": 3,
+        "page": 99
+    },
+    "3117": {
+        "name": "淡雪",
+        "name_en": "H. 'Tansetsu'",
+        "volume": 3,
+        "page": 99
+    },
+    "3118": {
+        "name": "典雅",
+        "name_en": "H. 'Tenga'",
+        "volume": 3,
+        "page": 99
+    },
+    "3119": {
+        "name": "天上の蓮",
+        "name_en": "H. 'Tenjou-no-Hasu'",
+        "volume": 3,
+        "page": 99
+    },
+    "3120": {
+        "name": "鉄壁",
+        "name_en": "H. 'Teppeki'",
+        "volume": 3,
+        "page": 99
+    },
+    "3121": {
+        "name": "鉄瓦",
+        "name_en": "H. 'Tetsugawara'",
+        "volume": 3,
+        "page": 99
+    },
+    "3122": {
+        "name": "鉄人",
+        "name_en": "H. 'Tetsujin'",
+        "volume": 3,
+        "page": 99
+    },
+    "3123": {
+        "name": "ティアラ",
+        "name_en": "H. 'Tiara'",
+        "volume": 3,
+        "page": 99
+    },
+    "3124": {
+        "name": "タイタニック",
+        "name_en": "H. 'Titanic'",
+        "volume": 3,
+        "page": 100
+    },
+    "3125": {
+        "name": "トロピカルナイト",
+        "name_en": "H. 'Tropical Night'",
+        "volume": 3,
+        "page": 100
+    },
+    "3126": {
+        "name": "月明かりⅡ",
+        "name_en": "H. 'Tsukiakari Ⅱ'",
+        "volume": 3,
+        "page": 100
+    },
+    "3127": {
+        "name": "月明かりの寿",
+        "name_en": "H. 'Tsukiakari-no-Kotobuki'",
+        "volume": 3,
+        "page": 100
+    },
+    "3128": {
+        "name": "月影の雫",
+        "name_en": "H. 'Tsukikage-no-Shizuku'",
+        "volume": 3,
+        "page": 100
+    },
+    "3129": {
+        "name": "ツルピカまるこ",
+        "name_en": "H. 'Tsurupika Maruko'",
+        "volume": 3,
+        "page": 100
+    },
+    "3130": {
+        "name": "ウルトラC",
+        "name_en": "H. 'Ultra C'",
+        "volume": 3,
+        "page": 100
+    },
+    "3131": {
+        "name": "浦風",
+        "name_en": "H. 'Urakaze'",
+        "volume": 3,
+        "page": 100
+    },
+    "3132": {
+        "name": "ヴィーナス",
+        "name_en": "H. 'Venus'",
+        "volume": 3,
+        "page": 100
+    },
+    "3133": {
+        "name": "ベリーブラック",
+        "name_en": "H. 'Very Black'",
+        "volume": 3,
+        "page": 101
+    },
+    "3134": {
+        "name": "ウォーターブルー",
+        "name_en": "H. 'Water Blue'",
+        "volume": 3,
+        "page": 101
+    },
+    "3135": {
+        "name": "ウォーターパーク",
+        "name_en": "H. 'Water Park'",
+        "volume": 3,
+        "page": 101
+    },
+    "3136": {
+        "name": "ホワイトエンジェル",
+        "name_en": "H. 'White Angel'",
+        "volume": 3,
+        "page": 101
+    },
+    "3137": {
+        "name": "ホワイトデビル",
+        "name_en": "H. 'White Devil'",
+        "volume": 3,
+        "page": 101
+    },
+    "3138": {
+        "name": "ワンダーグリーン",
+        "name_en": "H. 'Wonder Green'",
+        "volume": 3,
+        "page": 101
+    },
+    "3139": {
+        "name": "矢車",
+        "name_en": "H. 'Yaguruma'",
+        "volume": 3,
+        "page": 101
+    },
+    "3140": {
+        "name": "夜想の森A",
+        "name_en": "H. 'Yasou-no-Mori A'",
+        "volume": 3,
+        "page": 101
+    },
+    "3141": {
+        "name": "夜想の森c",
+        "name_en": "H. 'Yasou-no-Mori C'",
+        "volume": 3,
+        "page": 101
+    },
+    "3142": {
+        "name": "八咫烏",
+        "name_en": "H. 'Yatagarasu'",
+        "volume": 3,
+        "page": 102
+    },
+    "3143": {
+        "name": "夜烏",
+        "name_en": "H. 'Yogarasu'",
+        "volume": 3,
+        "page": 102
+    },
+    "3144": {
+        "name": "妖女",
+        "name_en": "H. 'Youjyo'",
+        "volume": 3,
+        "page": 102
+    },
+    "3145": {
+        "name": "よもぎの丘",
+        "name_en": "H. 'Yomogi-no-Oka'",
+        "volume": 3,
+        "page": 102
+    },
+    "3146": {
+        "name": "雪車",
+        "name_en": "H. 'Yukiguruma'",
+        "volume": 3,
+        "page": 102
+    },
+    "3147": {
+        "name": "雪姫",
+        "name_en": "H. 'Yukihime'",
+        "volume": 3,
+        "page": 102
+    },
+    "3148": {
+        "name": "雪烏",
+        "name_en": "H. 'Yukikarasu'",
+        "volume": 3,
+        "page": 102
+    },
+    "3149": {
+        "name": "雪の妖精",
+        "name_en": "H. 'Yuki-no-Yosei'",
+        "volume": 3,
+        "page": 102
+    },
+    "3150": {
+        "name": "座頭鯨",
+        "name_en": "H. 'Zatoukujira'",
+        "volume": 3,
+        "page": 102
+    },
+    "3151": {
+        "name": "阿房宮錦",
+        "name_en": "H. 'Aboukyu'",
+        "volume": 3,
+        "page": 103
+    },
+    "3152": {
+        "name": "秋まつり",
+        "name_en": "H. 'Akimatsuri'",
+        "volume": 3,
+        "page": 103
+    },
+    "3153": {
+        "name": "アリスタ錦",
+        "name_en": "H. aristata",
+        "volume": 3,
+        "page": 103
+    },
+    "3154": {
+        "name": "朝の露錦",
+        "name_en": "H. 'Asa-no-Tsuyunishiki'",
+        "volume": 3,
+        "page": 103
+    },
+    "3155": {
+        "name": "アトロフスカ錦",
+        "name_en": "H. atro-fusca",
+        "volume": 3,
+        "page": 103
+    },
+    "3156": {
+        "name": "万国の光",
+        "name_en": "H. 'Bankoku-no-Hikari'",
+        "volume": 3,
+        "page": 103
+    },
+    "3157": {
+        "name": "網王錦",
+        "name_en": "H. bayari 'Amiounishiki'",
+        "volume": 3,
+        "page": 103
+    },
+    "3158": {
+        "name": "クリスタ錦",
+        "name_en": "H. bayeri 'Crysta'",
+        "volume": 3,
+        "page": 103
+    },
+    "3159": {
+        "name": "輝美",
+        "name_en": "H. bayeri 'Terumi'",
+        "volume": 3,
+        "page": 103
+    },
+    "3160": {
+        "name": "トーテンポー",
+        "name_en": "H. bayeri 'Totempole'",
+        "volume": 3,
+        "page": 104
+    },
+    "3161": {
+        "name": "ベークマニー錦",
+        "name_en": "H. bekmanii",
+        "volume": 3,
+        "page": 104
+    },
+    "3162": {
+        "name": "ブラックスプレン錦",
+        "name_en": "H. 'Black Splen'",
+        "volume": 3,
+        "page": 104
+    },
+    "3163": {
+        "name": "ブル錦",
+        "name_en": "H. 'Bru'",
+        "volume": 3,
+        "page": 104
+    },
+    "3164": {
+        "name": "渦千鳥錦",
+        "name_en": "H. caespitosa",
+        "volume": 3,
+        "page": 104
+    },
+    "3165": {
+        "name": "チャコ錦",
+        "name_en": "H. 'Chaco'",
+        "volume": 3,
+        "page": 104
+    },
+    "3166": {
+        "name": "黒ムチカ錦",
+        "name_en": "H. 'Kuromuchica'",
+        "volume": 3,
+        "page": 104
+    },
+    "3167": {
+        "name": "カクテル",
+        "name_en": "H. 'Cocktail'",
+        "volume": 3,
+        "page": 104
+    },
+    "3168": {
+        "name": "コンプト錦",
+        "name_en": "H . comptoniana",
+        "volume": 3,
+        "page": 104
+    },
+    "3169": {
+        "name": "コンプト錦曙斑",
+        "name_en": "H. comptoniana 'Akebono'",
+        "volume": 3,
+        "page": 105
+    },
+    "3170": {
+        "name": "コロコロコンプト錦",
+        "name_en": "H. comptoniana 'Korokoro'",
+        "volume": 3,
+        "page": 105
+    },
+    "3171": {
+        "name": "うぐいすコンプト綿",
+        "name_en": "H. comptoniana 'Uguisu'",
+        "volume": 3,
+        "page": 105
+    },
+    "3172": {
+        "name": "クーペリー錦",
+        "name_en": "H. cooperi",
+        "volume": 3,
+        "page": 105
+    },
+    "3173": {
+        "name": "クーペリー錦",
+        "name_en": "H. cooperi",
+        "volume": 3,
+        "page": 105
+    },
+    "3174": {
+        "name": "仙女香",
+        "name_en": "H. cooperi v. pilifera Seturifera",
+        "volume": 3,
+        "page": 105
+    },
+    "3175": {
+        "name": "新オブツーサ錦",
+        "name_en": "H. cooperi 'Atarashinishiki'",
+        "volume": 3,
+        "page": 105
+    },
+    "3176": {
+        "name": "弁天錦",
+        "name_en": "H. cooperi Bentennishiki'",
+        "volume": 3,
+        "page": 105
+    },
+    "3177": {
+        "name": "玉",
+        "name_en": "錦 H. cooperi'Gyokunishiki'",
+        "volume": 3,
+        "page": 105
+    },
+    "3178": {
+        "name": "イクラ錦",
+        "name_en": "H. cooperi 'Ikura'",
+        "volume": 3,
+        "page": 106
+    },
+    "3179": {
+        "name": "小型オブッサ錦",
+        "name_en": "H. cooperi 'Kogata'",
+        "volume": 3,
+        "page": 106
+    },
+    "3180": {
+        "name": "水の露錦",
+        "name_en": "H. cooperi 'Mizu-no-Tsuyunishiki'",
+        "volume": 3,
+        "page": 106
+    },
+    "3181": {
+        "name": "北京錦",
+        "name_en": "H. cooperi 'Pekin-nishiki'",
+        "volume": 3,
+        "page": 106
+    },
+    "3182": {
+        "name": "スタイネリー錦",
+        "name_en": "H. cooperi 'Stainery'",
+        "volume": 3,
+        "page": 106
+    },
+    "3183": {
+        "name": "クリスタルアイ錦",
+        "name_en": "H. 'Crystal Eye'",
+        "volume": 3,
+        "page": 106
+    },
+    "3184": {
+        "name": "大春錦",
+        "name_en": "H. 'Daishunnishiki'",
+        "volume": 3,
+        "page": 106
+    },
+    "3185": {
+        "name": "ダウト",
+        "name_en": "H. 'Dauto'",
+        "volume": 3,
+        "page": 106
+    },
+    "3186": {
+        "name": "ディケナヒ錦",
+        "name_en": "H. dekenahii",
+        "volume": 3,
+        "page": 106
+    },
+    "3187": {
+        "name": "デスピエンシス錦",
+        "name_en": "H. despiensis",
+        "volume": 3,
+        "page": 107
+    },
+    "3188": {
+        "name": "イージーウォーク",
+        "name_en": "H. 'Easy Walk'",
+        "volume": 3,
+        "page": 107
+    },
+    "3189": {
+        "name": "エイム",
+        "name_en": "H. 'Eim'",
+        "volume": 3,
+        "page": 107
+    },
+    "3190": {
+        "name": "エスタホイゼニー錦",
+        "name_en": "H. esterhuizenii",
+        "volume": 3,
+        "page": 107
+    },
+    "3191": {
+        "name": "伽藍錦",
+        "name_en": "H. 'Garannishiki'",
+        "volume": 3,
+        "page": 107
+    },
+    "3192": {
+        "name": "ゲラルディ錦",
+        "name_en": "H. geraldii hybrid?",
+        "volume": 3,
+        "page": 107
+    },
+    "3193": {
+        "name": "グリーン玉扇錦",
+        "name_en": "H. 'Green Gyokusen'",
+        "volume": 3,
+        "page": 107
+    },
+    "3194": {
+        "name": "グリーンムチカ錦",
+        "name_en": "H. 'Green Muticanishiki'",
+        "volume": 3,
+        "page": 107
+    },
+    "3195": {
+        "name": "グリーンシュガー",
+        "name_en": "H. 'Green Sugarnishiki'",
+        "volume": 3,
+        "page": 107
+    },
+    "3196": {
+        "name": "グリーンティ錦",
+        "name_en": "H. 'Green Tea'",
+        "volume": 3,
+        "page": 108
+    },
+    "3197": {
+        "name": "玉寿錦",
+        "name_en": "H. 'Gyokuju'",
+        "volume": 3,
+        "page": 108
+    },
+    "3198": {
+        "name": "白岩石",
+        "name_en": "H. 'Hakuganseki'",
+        "volume": 3,
+        "page": 108
+    },
+    "3199": {
+        "name": "白山の光",
+        "name_en": "H. 'Hakusan-no-Hikari'",
+        "volume": 3,
+        "page": 108
+    },
+    "3200": {
+        "name": "白庭錦",
+        "name_en": "H. 'Hakuteinishiki'",
+        "volume": 3,
+        "page": 108
+    },
+    "3201": {
+        "name": "春草錦",
+        "name_en": "H. 'Harukusanishiki'",
+        "volume": 3,
+        "page": 108
+    },
+    "3202": {
+        "name": "春まつり",
+        "name_en": "H. 'Harumatsuri'",
+        "volume": 3,
+        "page": 108
+    },
+    "3203": {
+        "name": "初夢殿錦",
+        "name_en": "H. 'Hatsuyomedennishiki'",
+        "volume": 3,
+        "page": 108
+    },
+    "3204": {
+        "name": "スカブラ錦",
+        "name_en": "H. heidel bergensis v. scabra",
+        "volume": 3,
+        "page": 108
+    },
+    "3205": {
+        "name": "光錦",
+        "name_en": "H. 'Hirari'",
+        "volume": 3,
+        "page": 109
+    },
+    "3206": {
+        "name": "宝樹の光",
+        "name_en": "H. 'Houju-no-Hikari'",
+        "volume": 3,
+        "page": 109
+    },
+    "3207": {
+        "name": "ホンキートンク",
+        "name_en": "H. 'Honky Tonk'",
+        "volume": 3,
+        "page": 109
+    },
+    "3208": {
+        "name": "アイスシャトー錦",
+        "name_en": "H. 'Jee Chateau'",
+        "volume": 3,
+        "page": 109
+    },
+    "3209": {
+        "name": "アイランド錦",
+        "name_en": "H. 'Island'",
+        "volume": 3,
+        "page": 109
+    },
+    "3210": {
+        "name": "秋の菊座",
+        "name_en": "H. integra'Aki-no-Kikuza'",
+        "volume": 3,
+        "page": 109
+    },
+    "3211": {
+        "name": "射手座",
+        "name_en": "H. 'Iteza'",
+        "volume": 3,
+        "page": 109
+    },
+    "3212": {
+        "name": "ジェム象錦",
+        "name_en": "H. 'Jem-Zounishiki'",
+        "volume": 3,
+        "page": 109
+    },
+    "3213": {
+        "name": "樹泉の光",
+        "name_en": "H. 'Jusen-no-Hikari'",
+        "volume": 3,
+        "page": 109
+    },
+    "3214": {
+        "name": "耀きの寿錦",
+        "name_en": "H. 'Kagayaki-no-Kotobuki'",
+        "volume": 3,
+        "page": 110
+    },
+    "3215": {
+        "name": "黄桜錦",
+        "name_en": "H. 'Kizakuranishiki'",
+        "volume": 3,
+        "page": 110
+    },
+    "3216": {
+        "name": "小雪",
+        "name_en": "H. 'Koyuki'",
+        "volume": 3,
+        "page": 110
+    },
+    "3217": {
+        "name": "黒魔境の光",
+        "name_en": "H. 'Koromakyo-no-Hikari'",
+        "volume": 3,
+        "page": 110
+    },
+    "3218": {
+        "name": "黒目錦",
+        "name_en": "H. 'Kurome'",
+        "volume": 3,
+        "page": 110
+    },
+    "3219": {
+        "name": "恐竜錦",
+        "name_en": "H. 'Kyoryunishiki'",
+        "volume": 3,
+        "page": 110
+    },
+    "3220": {
+        "name": "京三条",
+        "name_en": "H. 'Kyosanjyo'",
+        "volume": 3,
+        "page": 110
+    },
+    "3221": {
+        "name": "菊花の舞錦",
+        "name_en": "H. laetvirens",
+        "volume": 3,
+        "page": 110
+    },
+    "3222": {
+        "name": "ラビアンローズ錦",
+        "name_en": "H. 'Lavieen Rose'",
+        "volume": 3,
+        "page": 110
+    },
+    "3223": {
+        "name": "ルーブル",
+        "name_en": "H. 'Louvre'",
+        "volume": 3,
+        "page": 111
+    },
+    "3224": {
+        "name": "ラッキー錦",
+        "name_en": "H. 'Luckynishiki'",
+        "volume": 3,
+        "page": 111
+    },
+    "3225": {
+        "name": "舞衣",
+        "name_en": "H. 'Maigoromo'",
+        "volume": 3,
+        "page": 111
+    },
+    "3226": {
+        "name": "メイリンギ錦",
+        "name_en": "H. mairingii",
+        "volume": 3,
+        "page": 111
+    },
+    "3227": {
+        "name": "マジョール錦",
+        "name_en": "H. major",
+        "volume": 3,
+        "page": 111
+    },
+    "3228": {
+        "name": "まりも錦",
+        "name_en": "H. maughanii 'Marimonishiki'",
+        "volume": 3,
+        "page": 111
+    },
+    "3229": {
+        "name": "マリン錦",
+        "name_en": "H. 'Marin'",
+        "volume": 3,
+        "page": 111
+    },
+    "3230": {
+        "name": "マリリン錦",
+        "name_en": "H. 'Marilyn'",
+        "volume": 3,
+        "page": 111
+    },
+    "3231": {
+        "name": "富士の銘月",
+        "name_en": "H. 'Fuji-no-Meigetsu,",
+        "volume": 3,
+        "page": 111
+    },
+    "3232": {
+        "name": "柴山赤斑万象",
+        "name_en": "H. mauganii 'Shibayama Akafu'",
+        "volume": 3,
+        "page": 112
+    },
+    "3233": {
+        "name": "雲仙錦",
+        "name_en": "H. maughanii 'Unzen'",
+        "volume": 3,
+        "page": 112
+    },
+    "3234": {
+        "name": "メロディエクスプレス",
+        "name_en": "H. 'Melody Express'",
+        "volume": 3,
+        "page": 112
+    },
+    "3235": {
+        "name": "美穂寿の光",
+        "name_en": "H. 'Mihokotobuki-no-Hikari'",
+        "volume": 3,
+        "page": 112
+    },
+    "3236": {
+        "name": "美穂錦",
+        "name_en": "H. 'Mihonishiki'",
+        "volume": 3,
+        "page": 112
+    },
+    "3237": {
+        "name": "ミルクポット",
+        "name_en": "H. 'Milk Pot'",
+        "volume": 3,
+        "page": 112
+    },
+    "3238": {
+        "name": "モデスタ錦",
+        "name_en": "H. modesta",
+        "volume": 3,
+        "page": 112
+    },
+    "3239": {
+        "name": "モナリザ",
+        "name_en": "H. 'Mona-Liza'",
+        "volume": 3,
+        "page": 112
+    },
+    "3240": {
+        "name": "モンタグエラ",
+        "name_en": "H. 'Montaguela'",
+        "volume": 3,
+        "page": 112
+    },
+    "3241": {
+        "name": "紫の露",
+        "name_en": "H. 'Murasaki-no-Tuyu'",
+        "volume": 3,
+        "page": 113
+    },
+    "3242": {
+        "name": "紫の惑星錦",
+        "name_en": "H. 'Murasaki-no-Wakusei'",
+        "volume": 3,
+        "page": 113
+    },
+    "3243": {
+        "name": "ムチカ錦",
+        "name_en": "H. mutica",
+        "volume": 3,
+        "page": 113
+    },
+    "3244": {
+        "name": "半目白夜",
+        "name_en": "H. mutica 'Hanmoku Byakuya",
+        "volume": 3,
+        "page": 113
+    },
+    "3245": {
+        "name": "メサビチャント",
+        "name_en": "H. mutica 'Mesabi Chant",
+        "volume": 3,
+        "page": 113
+    },
+    "3246": {
+        "name": "ネイチャーボーイ錦",
+        "name_en": "H. mutica 'Nature Boy",
+        "volume": 3,
+        "page": 113
+    },
+    "3247": {
+        "name": "ボヤージ",
+        "name_en": "H. mutica 'Voyage",
+        "volume": 3,
+        "page": 113
+    },
+    "3248": {
+        "name": "おぼろげ",
+        "name_en": "H. 'Oboroge'",
+        "volume": 3,
+        "page": 113
+    },
+    "3249": {
+        "name": "黄金ドラゴン",
+        "name_en": "H. 'Qugon Dragon'",
+        "volume": 3,
+        "page": 113
+    },
+    "3250": {
+        "name": "大達磨錦",
+        "name_en": "H. 'Oodaruma'",
+        "volume": 3,
+        "page": 114
+    },
+    "3251": {
+        "name": "おろち錦",
+        "name_en": "H. 'Orochi'",
+        "volume": 3,
+        "page": 114
+    },
+    "3252": {
+        "name": "大蛇姫錦",
+        "name_en": "H. 'Orochihimenishikt",
+        "volume": 3,
+        "page": 114
+    },
+    "3253": {
+        "name": "パラドクサ錦",
+        "name_en": "H. 'Paradoxa'",
+        "volume": 3,
+        "page": 114
+    },
+    "3254": {
+        "name": "パリの灯",
+        "name_en": "H. 'Paris-no-Hikari'",
+        "volume": 3,
+        "page": 114
+    },
+    "3255": {
+        "name": "ピンクパンサー",
+        "name_en": "H. 'Pink Panther'",
+        "volume": 3,
+        "page": 114
+    },
+    "3256": {
+        "name": "プラニフォリア錦",
+        "name_en": "H. planifolia",
+        "volume": 3,
+        "page": 114
+    },
+    "3257": {
+        "name": "黒ピグマエ錦",
+        "name_en": "H. pigmaea 'Kura'",
+        "volume": 3,
+        "page": 114
+    },
+    "3258": {
+        "name": "パウダースノー",
+        "name_en": "H. pigmaea 'Powder Snow",
+        "volume": 3,
+        "page": 114
+    },
+    "3259": {
+        "name": "王寿錦",
+        "name_en": "H. retusa 'Ookotobukinishiki'",
+        "volume": 3,
+        "page": 115
+    },
+    "3260": {
+        "name": "空模様",
+        "name_en": "H. retusa 'Soramoyou",
+        "volume": 3,
+        "page": 115
+    },
+    "3261": {
+        "name": "宝の寿錦",
+        "name_en": "H. retusa 'Takara-no-Kotobuki'",
+        "volume": 3,
+        "page": 115
+    },
+    "3262": {
+        "name": "緑盃錦",
+        "name_en": "H. Ryokuhainishiki",
+        "volume": 3,
+        "page": 115
+    },
+    "3263": {
+        "name": "緑庭の光",
+        "name_en": "H. Ryokutei-no-Hikan",
+        "volume": 3,
+        "page": 115
+    },
+    "3264": {
+        "name": "笹緑錦",
+        "name_en": "H. Sasamidorinishikt",
+        "volume": 3,
+        "page": 115
+    },
+    "3265": {
+        "name": "里山の光",
+        "name_en": "H. Satoyama-no-Hikan",
+        "volume": 3,
+        "page": 115
+    },
+    "3266": {
+        "name": "スカイハイ",
+        "name_en": "H. Skai Hay",
+        "volume": 3,
+        "page": 115
+    },
+    "3267": {
+        "name": "仙人寿錦",
+        "name_en": "H. 'Sennin Kotobukinishiki'",
+        "volume": 3,
+        "page": 115
+    },
+    "3268": {
+        "name": "紫紅錦",
+        "name_en": "H. 'Shikounishikt",
+        "volume": 3,
+        "page": 116
+    },
+    "3269": {
+        "name": "白蟹錦",
+        "name_en": "H. 'Shirokaninishikt",
+        "volume": 3,
+        "page": 116
+    },
+    "3270": {
+        "name": "シルバーコイン錦",
+        "name_en": "H. 'Silver Coin'",
+        "volume": 3,
+        "page": 116
+    },
+    "3271": {
+        "name": "スプレンデンス白ノリ斑",
+        "name_en": "H. splendens",
+        "volume": 3,
+        "page": 116
+    },
+    "3272": {
+        "name": "ダイアナ錦",
+        "name_en": "H. splendens'Diana'",
+        "volume": 3,
+        "page": 116
+    },
+    "3273": {
+        "name": "スプリングイズヒア",
+        "name_en": "H. 'Spring is Here'",
+        "volume": 3,
+        "page": 116
+    },
+    "3274": {
+        "name": "スプリングシャッフル",
+        "name_en": "H. 'Spring Shuffle'",
+        "volume": 3,
+        "page": 116
+    },
+    "3275": {
+        "name": "ノーラー",
+        "name_en": "H. 'Solar'",
+        "volume": 3,
+        "page": 116
+    },
+    "3276": {
+        "name": "ノリチュード",
+        "name_en": "H. 'Solitude'",
+        "volume": 3,
+        "page": 116
+    },
+    "3277": {
+        "name": "翠宝",
+        "name_en": "H. 'Suiho'",
+        "volume": 3,
+        "page": 117
+    },
+    "3278": {
+        "name": "サマータイム錦",
+        "name_en": "H. 'Summer Time'",
+        "volume": 3,
+        "page": 117
+    },
+    "3279": {
+        "name": "上海錦",
+        "name_en": "H. 'Shanhainishiki'",
+        "volume": 3,
+        "page": 117
+    },
+    "3280": {
+        "name": "太楽",
+        "name_en": "H. 'Tairak",
+        "volume": 3,
+        "page": 117
+    },
+    "3281": {
+        "name": "太孫錦",
+        "name_en": "H. 'Taisonnishiki'",
+        "volume": 3,
+        "page": 117
+    },
+    "3282": {
+        "name": "天優",
+        "name_en": "H. 'Tenyu'",
+        "volume": 3,
+        "page": 117
+    },
+    "3283": {
+        "name": "I.S.F錦",
+        "name_en": "H. truncata I.S.F",
+        "volume": 3,
+        "page": 117
+    },
+    "3284": {
+        "name": "富士の輝",
+        "name_en": "H. truncata 'Fuji-no-Kagayaki'",
+        "volume": 3,
+        "page": 117
+    },
+    "3285": {
+        "name": "マグニフィカ錦",
+        "name_en": "H. truncata  Magnifica",
+        "volume": 3,
+        "page": 117
+    },
+    "3286": {
+        "name": "美恵",
+        "name_en": "H. truncata 'Mie'",
+        "volume": 3,
+        "page": 118
+    },
+    "3287": {
+        "name": "西陣",
+        "name_en": "H. truncata 'Nishijinn'",
+        "volume": 3,
+        "page": 118
+    },
+    "3288": {
+        "name": "大海原",
+        "name_en": "H. truncata 'Oounabara'",
+        "volume": 3,
+        "page": 118
+    },
+    "3289": {
+        "name": "流星錦",
+        "name_en": "H. truncata 'Ryuseinishiki'",
+        "volume": 3,
+        "page": 118
+    },
+    "3290": {
+        "name": "花鏡錦",
+        "name_en": "H. truncata 'Hanakagaminishiki'",
+        "volume": 3,
+        "page": 118
+    },
+    "3291": {
+        "name": "ベクター錦",
+        "name_en": "H. Vector-nishiki",
+        "volume": 3,
+        "page": 118
+    },
+    "3292": {
+        "name": "ベンテリー錦",
+        "name_en": "H. venteri",
+        "volume": 3,
+        "page": 118
+    },
+    "3293": {
+        "name": "ワリン錦",
+        "name_en": "H. 'Warin'",
+        "volume": 3,
+        "page": 118
+    },
+    "3294": {
+        "name": "山田ブラック錦",
+        "name_en": "H. Yamada Blacknishiki",
+        "volume": 3,
+        "page": 118
+    },
+    "3295": {
+        "name": "アデライデンシス",
+        "name_en": "H. (reinwardtii) addelaidensis",
+        "volume": 3,
+        "page": 119
+    },
+    "3305": {
+        "name": "アテヌアタ",
+        "name_en": "H. attenuata",
+        "volume": 3,
+        "page": 120
+    },
+    "3311": {
+        "name": "カエスピトサ",
+        "name_en": "H. attenuata 'Caespitosa'",
+        "volume": 3,
+        "page": 120
+    },
+    "3312": {
+        "name": "ブレビクラ",
+        "name_en": "H. (reinwardtii) brevicula",
+        "volume": 3,
+        "page": 120
+    },
+    "3313": {
+        "name": "ブルインシー",
+        "name_en": "H. bruynsii",
+        "volume": 3,
+        "page": 121
+    },
+    "3314": {
+        "name": "チャルムネンシス",
+        "name_en": "H. (reinwardtii) chalumnensis",
+        "volume": 3,
+        "page": 121
+    },
+    "3315": {
+        "name": "コアラクタタ",
+        "name_en": "H. (reinwardtii) coarctata",
+        "volume": 3,
+        "page": 121
+    },
+    "3353": {
+        "name": "ファッシアタ",
+        "name_en": "H. (reinwardtii) fasciata",
+        "volume": 3,
+        "page": 125
+    },
+    "3354": {
+        "name": "グリーニー",
+        "name_en": "H. (reinwardtii) greenii",
+        "volume": 3,
+        "page": 125
+    },
+    "3355": {
+        "name": "グリーニー",
+        "name_en": "H. (reinwardtii) greenii",
+        "volume": 3,
+        "page": 125
+    },
+    "3356": {
+        "name": "ヘレイ",
+        "name_en": "H. (glauca) herrei",
+        "volume": 3,
+        "page": 125
+    },
+    "3362": {
+        "name": "イルミアエ",
+        "name_en": "H. irmiae",
+        "volume": 3,
+        "page": 126
+    },
+    "3363": {
+        "name": "ヨハニー",
+        "name_en": "H. johanii",
+        "volume": 3,
+        "page": 126
+    },
+    "3364": {
+        "name": "リミフォリア",
+        "name_en": "H. limifolia",
+        "volume": 3,
+        "page": 126
+    },
+    "3365": {
+        "name": "リミフォリア",
+        "name_en": "H. limifolia",
+        "volume": 3,
+        "page": 126
+    },
+    "3366": {
+        "name": "ロンギアナ",
+        "name_en": "H. longiana",
+        "volume": 3,
+        "page": 126
+    },
+    "3367": {
+        "name": "オリバセア",
+        "name_en": "H. (reinwardtii) olivacea",
+        "volume": 3,
+        "page": 126
+    },
+    "3368": {
+        "name": "オリバセア",
+        "name_en": "H. (reinwardtii) olivacea",
+        "volume": 3,
+        "page": 127
+    },
+    "3369": {
+        "name": "レインワルディ",
+        "name_en": "H. reinwardtii",
+        "volume": 3,
+        "page": 127
+    },
+    "3391": {
+        "name": "タンバ",
+        "name_en": "H. tanba",
+        "volume": 3,
+        "page": 129
+    },
+    "3392": {
+        "name": "テヌイス",
+        "name_en": "H. (reinwardtii) tenuis",
+        "volume": 3,
+        "page": 129
+    },
+    "3393": {
+        "name": "テヌイス",
+        "name_en": "H. (reinwardtii) tenuis",
+        "volume": 3,
+        "page": 129
+    },
+    "3394": {
+        "name": "テヌイス",
+        "name_en": "H. (reinwardtii) tenuis",
+        "volume": 3,
+        "page": 130
+    },
+    "3395": {
+        "name": "テッセラタ",
+        "name_en": "H. tessellata",
+        "volume": 3,
+        "page": 130
+    },
+    "3405": {
+        "name": "雷鱗",
+        "name_en": "H. tessellata'Rairin'",
+        "volume": 3,
+        "page": 131
+    },
+    "3406": {
+        "name": "大竜鱗",
+        "name_en": "H. tessellata'Dairyurin'",
+        "volume": 3,
+        "page": 131
+    },
+    "3407": {
+        "name": "クラウシー",
+        "name_en": "H. tessellata'Crausei'",
+        "volume": 3,
+        "page": 131
+    },
+    "3408": {
+        "name": "グラヌラタ",
+        "name_en": "H. tessellata'Granulata",
+        "volume": 3,
+        "page": 131
+    },
+    "3409": {
+        "name": "ベノサ",
+        "name_en": "H. venosa",
+        "volume": 3,
+        "page": 131
+    },
+    "3410": {
+        "name": "ベノサ",
+        "name_en": "H. venosa",
+        "volume": 3,
+        "page": 131
+    },
+    "3411": {
+        "name": "ベノサ",
+        "name_en": "H. venosa",
+        "volume": 3,
+        "page": 131
+    },
+    "3412": {
+        "name": "文栄",
+        "name_en": "Haworthiopsis 'Bunei'",
+        "volume": 3,
+        "page": 132
+    },
+    "3413": {
+        "name": "大岳",
+        "name_en": "H. 'Daigaku'",
+        "volume": 3,
+        "page": 132
+    },
+    "3414": {
+        "name": "大王",
+        "name_en": "H. 'Daiou'",
+        "volume": 3,
+        "page": 132
+    },
+    "3415": {
+        "name": "デンシコエル",
+        "name_en": "H. 'Denshikoelu'",
+        "volume": 3,
+        "page": 132
+    },
+    "3416": {
+        "name": "銅貨",
+        "name_en": "H. 'Douka'",
+        "volume": 3,
+        "page": 132
+    },
+    "3417": {
+        "name": "エヴァⅡ",
+        "name_en": "H. 'EvaⅡ'",
+        "volume": 3,
+        "page": 132
+    },
+    "3418": {
+        "name": "吹雪の舞",
+        "name_en": "H. 'Fubuki-no-Mai'",
+        "volume": 3,
+        "page": 132
+    },
+    "3419": {
+        "name": "冬の武倫",
+        "name_en": "H. 'Fuyu-no-Burin'",
+        "volume": 3,
+        "page": 132
+    },
+    "3420": {
+        "name": "グリーンドラゴン",
+        "name_en": "H. 'Green Dragon'",
+        "volume": 3,
+        "page": 132
+    },
+    "3421": {
+        "name": "ハミングバート",
+        "name_en": "H. 'Hamming Bard'",
+        "volume": 3,
+        "page": 133
+    },
+    "3422": {
+        "name": "羆",
+        "name_en": "H. 'Higuma'",
+        "volume": 3,
+        "page": 133
+    },
+    "3423": {
+        "name": "磯緑",
+        "name_en": "H. 'fsomidori'",
+        "volume": 3,
+        "page": 133
+    },
+    "3424": {
+        "name": "ジェドスター",
+        "name_en": "H. 'Jade Star'",
+        "volume": 3,
+        "page": 133
+    },
+    "3425": {
+        "name": "黒帝城",
+        "name_en": "H. 'Kokuteijou'",
+        "volume": 3,
+        "page": 133
+    },
+    "3426": {
+        "name": "皇帝",
+        "name_en": "H. 'Kotei'",
+        "volume": 3,
+        "page": 133
+    },
+    "3427": {
+        "name": "黒絵巻",
+        "name_en": "H. 'Kuroemaki'",
+        "volume": 3,
+        "page": 133
+    },
+    "3428": {
+        "name": "巨岩石",
+        "name_en": "H. 'Kyoganseki'",
+        "volume": 3,
+        "page": 133
+    },
+    "3429": {
+        "name": "黒天涯",
+        "name_en": "H. 'Kurotengai'",
+        "volume": 3,
+        "page": 133
+    },
+    "3430": {
+        "name": "黒亀城",
+        "name_en": "H. 'Kurokamejou'",
+        "volume": 3,
+        "page": 134
+    },
+    "3431": {
+        "name": "レモネンシス",
+        "name_en": "H. 'Lemonensis'",
+        "volume": 3,
+        "page": 134
+    },
+    "3432": {
+        "name": "紫波晃",
+        "name_en": "H. 'Murasakihakou'",
+        "volume": 3,
+        "page": 134
+    },
+    "3433": {
+        "name": "鬼ヒトデA",
+        "name_en": "H. 'Onihitode-A'",
+        "volume": 3,
+        "page": 134
+    },
+    "3434": {
+        "name": "鬼おろし",
+        "name_en": "H. 'Onioroshi'",
+        "volume": 3,
+        "page": 134
+    },
+    "3435": {
+        "name": "羅生鱗",
+        "name_en": "H. 'Rasyorin'",
+        "volume": 3,
+        "page": 134
+    },
+    "3436": {
+        "name": "鱗王殿",
+        "name_en": "H. 'Rinouden'",
+        "volume": 3,
+        "page": 134
+    },
+    "3437": {
+        "name": "緑岩城",
+        "name_en": "H. 'Ryokuganjou'",
+        "volume": 3,
+        "page": 134
+    },
+    "3438": {
+        "name": "緑化石",
+        "name_en": "H. 'Ryokkaseki'",
+        "volume": 3,
+        "page": 134
+    },
+    "3439": {
+        "name": "さそり",
+        "name_en": "H. 'Sasori'",
+        "volume": 3,
+        "page": 135
+    },
+    "3440": {
+        "name": "西太后",
+        "name_en": "H. 'Seitaigou'",
+        "volume": 3,
+        "page": 135
+    },
+    "3441": {
+        "name": "白エイ",
+        "name_en": "H. 'Shiroei'",
+        "volume": 3,
+        "page": 135
+    },
+    "3442": {
+        "name": "生涯",
+        "name_en": "H. 'Shougai'",
+        "volume": 3,
+        "page": 135
+    },
+    "3443": {
+        "name": "鍾乳石",
+        "name_en": "H. 'Shonyuseki'",
+        "volume": 3,
+        "page": 135
+    },
+    "3444": {
+        "name": "天帯橋",
+        "name_en": "H. 'Tentaikyo'",
+        "volume": 3,
+        "page": 135
+    },
+    "3445": {
+        "name": "冬化石",
+        "name_en": "H. 'Fuyukaseki'",
+        "volume": 3,
+        "page": 135
+    },
+    "3446": {
+        "name": "ホワイトコエル",
+        "name_en": "H. 'White Koel'",
+        "volume": 3,
+        "page": 135
+    },
+    "3447": {
+        "name": "地獄門",
+        "name_en": "H. 'Zigokumon'",
+        "volume": 3,
+        "page": 135
+    },
+    "3448": {
+        "name": "肥殿錦",
+        "name_en": "Haworthiopsis'Hidennishiki'",
+        "volume": 3,
+        "page": 136
+    },
+    "3449": {
+        "name": "リミフォリア錦",
+        "name_en": "H. Jimiforia",
+        "volume": 3,
+        "page": 136
+    },
+    "3450": {
+        "name": "松のひびき錦",
+        "name_en": "H. 'Matsu-no-Hibikinishiki'",
+        "volume": 3,
+        "page": 136
+    },
+    "3451": {
+        "name": "冬の星座白斑",
+        "name_en": "H. pumila",
+        "volume": 3,
+        "page": 136
+    },
+    "3452": {
+        "name": "プミラ錦",
+        "name_en": "H. pumila",
+        "volume": 3,
+        "page": 136
+    },
+    "3453": {
+        "name": "瑠璃の風景錦",
+        "name_en": "H. 'Ruri-no-Fukeinishik1",
+        "volume": 3,
+        "page": 136
+    },
+    "3454": {
+        "name": "龍門錦",
+        "name_en": "H. 'Ryumonnishiki'",
+        "volume": 3,
+        "page": 136
+    },
+    "3455": {
+        "name": "スノードロップ",
+        "name_en": "H. 'Snowdrop'",
+        "volume": 3,
+        "page": 136
+    },
+    "3456": {
+        "name": "竜鱗錦",
+        "name_en": "H. tessellata",
+        "volume": 3,
+        "page": 136
+    },
+    "3457": {
+        "name": "瑞 鶴",
+        "name_en": "H. marginata",
+        "volume": 3,
+        "page": 137
+    },
+    "3458": {
+        "name": "閤魔大王",
+        "name_en": "H. pumila 'Enmadaiou'",
+        "volume": 3,
+        "page": 137
+    },
+    "3459": {
+        "name": "マルチニー",
+        "name_en": "H. pumila 'Martinii'",
+        "volume": 3,
+        "page": 137
+    },
+    "3460": {
+        "name": "マキシマ",
+        "name_en": "H. pumila 'Maxima'",
+        "volume": 3,
+        "page": 137
+    },
+    "3461": {
+        "name": "オークワイ",
+        "name_en": "H. pumila 'Ohkuwai'",
+        "volume": 3,
+        "page": 137
+    },
+    "3462": {
+        "name": "マキシマ",
+        "name_en": "H. pumila 'Maxima'",
+        "volume": 3,
+        "page": 137
+    },
+    "3463": {
+        "name": "ミニマ",
+        "name_en": "H. minima",
+        "volume": 3,
+        "page": 137
+    },
+    "3464": {
+        "name": "ミニマ",
+        "name_en": "H. minima",
+        "volume": 3,
+        "page": 137
+    },
+    "3465": {
+        "name": "ミニマ",
+        "name_en": "H. minima",
+        "volume": 3,
+        "page": 137
+    },
+    "3466": {
+        "name": "コバリチナ",
+        "name_en": "H. minima 'Cobaltina'",
+        "volume": 3,
+        "page": 138
+    },
+    "3467": {
+        "name": "オパリナ",
+        "name_en": "H. minima 'Opalina'",
+        "volume": 3,
+        "page": 138
+    },
+    "3468": {
+        "name": "ポエルニジアエ",
+        "name_en": "H. minima 'Poellniziana'",
+        "volume": 3,
+        "page": 138
+    },
+    "3469": {
+        "name": "星吹雪",
+        "name_en": "H. minima  sv. polyphylla'Hoshifubuki'",
+        "volume": 3,
+        "page": 138
+    },
+    "3470": {
+        "name": "プリンセプス",
+        "name_en": "H. minima 'Princeps'",
+        "volume": 3,
+        "page": 138
+    },
+    "3471": {
+        "name": "秋天星",
+        "name_en": "H. minima 'Swellendam'",
+        "volume": 3,
+        "page": 138
+    },
+    "3472": {
+        "name": "セリアタ",
+        "name_en": "H. minima 'Seriata'",
+        "volume": 3,
+        "page": 138
+    },
+    "3473": {
+        "name": "秋天星",
+        "name_en": "H. minima 'Swellens'",
+        "volume": 3,
+        "page": 138
+    },
+    "3474": {
+        "name": "ヌーダ",
+        "name_en": "H. minima 'Nuda'",
+        "volume": 3,
+        "page": 138
+    }
+}
