@@ -1,4 +1,12 @@
-import data from "./data/vol1-1.json";
+import data1 from "./data/vol1.json";
+import data2 from "./data/vol2.json";
+import data3 from "./data/vol3.json";
+
+const data = {
+    ...data1,
+    ...data2,
+    ...data3
+};
 
 const jaIndex = FlexSearch.create({
     encode: false,
@@ -13,13 +21,13 @@ const enIndex = FlexSearch.create({
 
 const listMax = 20;
 
-const resultContainer = document.querySelector('#resultContainer');
-
 for (const id in data) {
     const item = data[id];
     jaIndex.add(id, item.name);
     enIndex.add(id, item.name_en);
 }
+
+const resultContainer = document.querySelector('#resultContainer');
 
 document.querySelector("#searchText").addEventListener("input", (e) => {
     const inputs = e.target.value.replace('　', ' ').split(' ');
