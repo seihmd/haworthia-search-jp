@@ -34,7 +34,7 @@ jobs:
       run: |
         git config --global user.email "7434823+seihmd@users.noreply.github.com"
         git config --global user.name "seihmd"
-        git remote set-url --push origin https://seihmd:$GITHUB_TOKEN@github.com/haworthia-academy-index
+        git remote set-url --push origin https://seihmd:$GITHUB_TOKEN@github.com/seihmd/haworthia-academy-index
         git commit -am "build"
         git push
 
