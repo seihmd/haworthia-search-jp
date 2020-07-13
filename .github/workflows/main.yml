@@ -6,7 +6,7 @@ name: CI
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [master]
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -19,24 +19,22 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
 
-    - name: Setup Node.js environment
-      uses: actions/setup-node@v1.4.2
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v1.4.2
 
-    - name: npm
-      run: |
-        npm install
-        npm run build
-    
-    - name: push
-      run: |
-        git config --global user.email "7434823+seihmd@users.noreply.github.com"
-        git config --global user.name "seihmd"
-        git remote set-url --push origin https://seihmd:$GITHUB_TOKEN@github.com/seihmd/haworthia-academy-index
-        git add -A
-        git commit -am "build"
-        git push
+      - name: npm
+        run: |
+          npm install
+          npm run build
 
-      
+      - name: push
+        run: |
+          git config --global user.email "7434823+seihmd@users.noreply.github.com"
+          git config --global user.name "seihmd"
+          git remote set-url --push origin https://seihmd:$GITHUB_TOKEN@github.com/seihmd/haworthia-search-jp
+          git add -A
+          git commit -am "build"
+          git push

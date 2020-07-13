@@ -1,6 +1,6 @@
-import data1 from "./data/vol1.json";
-import data2 from "./data/vol2.json";
-import data3 from "./data/vol3.json";
+import data1 from "./data/academy/vol1.json";
+import data2 from "./data/academy/vol2.json";
+import data3 from "./data/academy/vol3.json";
 
 const data = {
     ...data1,
