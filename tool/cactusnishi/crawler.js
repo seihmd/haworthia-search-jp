@@ -24,8 +24,7 @@ const TOP_PAGE = 'http://www.cactusnishi.com/HPP/CataTop01/CataTop01.htm';
 
         fs.writeFileSync(__dirname + `/htmldata/${fileName}`, content);
 
-        await page.waitFor(1000)
-        break;
+        await page.waitFor(3000)
     }
 
     await browser.close();
