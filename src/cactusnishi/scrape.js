@@ -129,5 +129,5 @@ const files = fs.readdirSync(__dirname + "/htmldata");
 
     await browser.close();
     console.info("finish");
-    fs.writeFileSync(__dirname + `/data/data.json`, JSON.stringify(allData));
+    fs.writeFileSync(__dirname + `/../data/cactusnishi/data.json`, JSON.stringify(allData));
 })();
