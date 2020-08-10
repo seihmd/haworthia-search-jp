@@ -56,8 +56,8 @@ const urlMap = {
     "HSP01.htm": "http://www.cactusnishi.com/HPP/CataTop01/HSP/HSP01.htm",
     "HSPX01.htm": "http://www.cactusnishi.com/HPP/CataTop01/HSPX/HSPX01.htm",
     "HCRX01.htm": "http://www.cactusnishi.com/HPP/CataTop01/HCRX/HCRX01.htm",
-    "AG01.htm": "http://www.cactusnishi.com/HPP/CataTop01/AG/AG01.htm",
-    "GE01.htm": "http://www.cactusnishi.com/HPP/CataTop01/GE/GE01.htm",
+    // "AG01.htm": "http://www.cactusnishi.com/HPP/CataTop01/AG/AG01.htm", アガベ
+    //  "GE01.htm": "http://www.cactusnishi.com/HPP/CataTop01/GE/GE01.htm", ガステリア
     "HKCX01.htm": "http://www.cactusnishi.com/HPP/CataTop01/HKCX/HKCX01.htm",
     "GAX01.htm": "http://www.cactusnishi.com/HPP/CataTop01/GAX/GAX01.htm",
     "BRS.htm": "http://www.cactusnishi.com/HPP/CataTop01/BRS/BRS.htm",
@@ -99,11 +99,30 @@ const scrape = async (fileName) => {
                     "body > div > table > tbody > tr:nth-child(2) > td > div > table > tbody > tr:nth-child(1) > td:nth-child(2) > table > tbody td[valign=top]"
                 ),
             ]
-            .map((e) => ({
-                name: e.querySelector("b") ? e.querySelector("b").innerText : null,
-                name_en: e.querySelector("span[lang=EN-US]") ?
-                    e.querySelector("span[lang=EN-US]").innerText : null,
-            }))
+            .map((e) => {
+                const data = {
+                    name: null,
+                    name_en: null
+                }
+
+                // 日本語名の抽出
+                const b = e.querySelector('b');
+                if (b) {
+                    const match = b.innerText.match(/(.*)/);
+                    if (match) {
+                        data.name = match[1];
+                    } else {
+                        data.name = b.innerText;
+                    }
+                }
+
+                // 英語名の抽出
+                data.name_en = e.querySelector("span[lang=EN-US]") ?
+                    e.querySelector("span[lang=EN-US]").innerText :
+                    null;
+
+                return data;
+            })
             .filter((item) => item.name || item.name_en);
     });
     items.forEach((item, i) => {
@@ -122,6 +141,10 @@ const files = fs.readdirSync(__dirname + "/htmldata");
     page = await browser.newPage();
 
     for (const file of files) {
+        if (file.match(/AG01.htm|GE01.htm/)) {
+            continue
+        }
+
         const data = await scrape(file);
         allData = Object.assign(allData, data);
         console.info(file);
