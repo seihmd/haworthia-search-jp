@@ -67,7 +67,7 @@ document.querySelector("#searchText").addEventListener("input", (e) => {
             return `<tr>
 <td>${item.name ?? ""}</td>
 <td>${item.name_en ?? ""}</td>
-<td><a href=${item.url} target='_blank'>カクタスニシ</td>
+<td><a href=${item.url} target='_blank'>カクタスニシ</a></td>
 </tr>`
         }
     });
